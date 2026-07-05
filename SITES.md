@@ -124,7 +124,7 @@
     <tr><td><a href="sites/ontvtonight.com">ontvtonight.com</a></td><td align="right">5177</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/opto.sic.pt">opto.sic.pt</a></td><td align="right">3</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/orangetv.orange.es">orangetv.orange.es</a></td><td align="right">273</td><td align="center">🟢</td><td></td></tr>
-    <tr><td><a href="sites/osn.com">osn.com</a></td><td align="right">67</td><td align="center">🟢</td><td>https://github.com/iptv-org/epg/issues/3181</td></tr>
+    <tr><td><a href="sites/osn.com">osn.com</a></td><td align="right">67</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/passie.nl">passie.nl</a></td><td align="right">1</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/pbsguam.org">pbsguam.org</a></td><td align="right">1</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/pickx.be">pickx.be</a></td><td align="right">404</td><td align="center">🟢</td><td></td></tr>
@@ -190,7 +190,7 @@
     <tr><td><a href="sites/tv.dir.bg">tv.dir.bg</a></td><td align="right">100</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/tv.lv">tv.lv</a></td><td align="right">137</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/tv.magenta.at">tv.magenta.at</a></td><td align="right">307</td><td align="center">🟢</td><td></td></tr>
-    <tr><td><a href="sites/tv.mail.ru">tv.mail.ru</a></td><td align="right">664</td><td align="center">🟢</td><td>https://github.com/iptv-org/epg/issues/3174</td></tr>
+    <tr><td><a href="sites/tv.mail.ru">tv.mail.ru</a></td><td align="right">664</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/tv.movistar.co">tv.movistar.co</a></td><td align="right">97</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/tv.movistar.com.pe">tv.movistar.com.pe</a></td><td align="right">262</td><td align="center">🟢</td><td></td></tr>
     <tr><td><a href="sites/tv.nu">tv.nu</a></td><td align="right">199</td><td align="center">🟢</td><td></td></tr>
