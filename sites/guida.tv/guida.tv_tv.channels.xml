@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="guida.tv" site_id="676773/canale-5" lang="it" xmltv_id="">Canale 5</channel>
+  <channel site="guida.tv" site_id="677679/cielo" lang="it" xmltv_id="">Cielo</channel>
+  <channel site="guida.tv" site_id="698573/eurosport-italia" lang="it" xmltv_id="">Eurosport Italia</channel>
+  <channel site="guida.tv" site_id="737349/italia-1" lang="it" xmltv_id="">ITALIA 1</channel>
+  <channel site="guida.tv" site_id="737350/italia-2" lang="it" xmltv_id="">ITALIA 2</channel>
+  <channel site="guida.tv" site_id="738252/rete-4" lang="it" xmltv_id="">RETE 4</channel>
+  <channel site="guida.tv" site_id="766555/la-7" lang="it" xmltv_id="">LA 7</channel>
+  <channel site="guida.tv" site_id="778473/tv8" lang="it" xmltv_id="">TV8</channel>
+  <channel site="guida.tv" site_id="825078/rai-24-news" lang="it" xmltv_id="">RAI 24 News</channel>
+  <channel site="guida.tv" site_id="826550/rai-2" lang="it" xmltv_id="">RAI 2</channel>
+  <channel site="guida.tv" site_id="826551/rai-3" lang="it" xmltv_id="">RAI 3</channel>
+  <channel site="guida.tv" site_id="826552/rai-4" lang="it" xmltv_id="">Rai 4</channel>
+  <channel site="guida.tv" site_id="826553/rai-5" lang="it" xmltv_id="">Rai 5</channel>
+  <channel site="guida.tv" site_id="826573/rai-1" lang="it" xmltv_id="">RAI 1</channel>
+  <channel site="guida.tv" site_id="55717668/7-gold" lang="it" xmltv_id="">7 Gold</channel>
+  <channel site="guida.tv" site_id="65767765/alma" lang="it" xmltv_id="">Alma</channel>
+  <channel site="guida.tv" site_id="66487167/sky-sport-tennis" lang="it" xmltv_id="">Sky Sport Tennis</channel>
+  <channel site="guida.tv" site_id="66797378/boing" lang="it" xmltv_id="">Boing</channel>
+  <channel site="guida.tv" site_id="67656767/caccia" lang="it" xmltv_id="">Caccia</channel>
+  <channel site="guida.tv" site_id="67658284/cartoonito" lang="it" xmltv_id="">Cartoonito</channel>
+  <channel site="guida.tv" site_id="67735152/cine34" lang="it" xmltv_id="">Cine34</channel>
+  <channel site="guida.tv" site_id="67786667/class-cnbc" lang="it" xmltv_id="">Class CNBC</channel>
+  <channel site="guida.tv" site_id="67827373/crimeinvestigation" lang="it" xmltv_id="">Crime+Investigation</channel>
+  <channel site="guida.tv" site_id="68696574/dea-junior" lang="it" xmltv_id="">DEA JUNIOR</channel>
+  <channel site="guida.tv" site_id="68696575/dea-kids" lang="it" xmltv_id="">DeA Kids</channel>
+  <channel site="guida.tv" site_id="68736773/discovery-channel-i" lang="it" xmltv_id="">Discovery Channel I</channel>
+  <channel site="guida.tv" site_id="68748486/nove" lang="it" xmltv_id="">Nove</channel>
+  <channel site="guida.tv" site_id="68776588/dmax-italia" lang="it" xmltv_id="">DMAX Italia</channel>
+  <channel site="guida.tv" site_id="68797878/donna-tv" lang="it" xmltv_id="">Donna TV</channel>
+  <channel site="guida.tv" site_id="69857350/eurosport-2-italia" lang="it" xmltv_id="">Eurosport 2 Italia</channel>
+  <channel site="guida.tv" site_id="70787384/food-network" lang="it" xmltv_id="">Food Network</channel>
+  <channel site="guida.tv" site_id="70797384/focus" lang="it" xmltv_id="">Focus</channel>
+  <channel site="guida.tv" site_id="71657766/sky-italian-gambero-rosso-hd" lang="it" xmltv_id="">Sky Italian Gambero Rosso HD</channel>
+  <channel site="guida.tv" site_id="71737979/giallo" lang="it" xmltv_id="">Giallo</channel>
+  <channel site="guida.tv" site_id="72717384/hgtv-it" lang="it" xmltv_id="">HGTV IT</channel>
+  <channel site="guida.tv" site_id="73708273/frisbee" lang="it" xmltv_id="">Frisbee</channel>
+  <channel site="guida.tv" site_id="73788469/inter-tv" lang="it" xmltv_id="">Inter TV</channel>
+  <channel site="guida.tv" site_id="73827383/iris" lang="it" xmltv_id="">Iris</channel>
+  <channel site="guida.tv" site_id="73838580/super" lang="it" xmltv_id="">Super!</channel>
+  <channel site="guida.tv" site_id="73845048/tv-2000" lang="it" xmltv_id="">TV 2000</channel>
+  <channel site="guida.tv" site_id="73846765/cartoon-network-italy" lang="it" xmltv_id="">Cartoon Network Italy</channel>
+  <channel site="guida.tv" site_id="73846767/comedy-central" lang="it" xmltv_id="">Comedy Central</channel>
+  <channel site="guida.tv" site_id="73847873/nickelodeon" lang="it" xmltv_id="">Nickelodeon</channel>
+  <channel site="guida.tv" site_id="73847874/nick-jr" lang="it" xmltv_id="">Nick Jr.</channel>
+  <channel site="guida.tv" site_id="75507384/k2" lang="it" xmltv_id="">K2</channel>
+  <channel site="guida.tv" site_id="76655373/la-5" lang="it" xmltv_id="">La 5</channel>
+  <channel site="guida.tv" site_id="77686988/mediaset-extra" lang="it" xmltv_id="">Mediaset Extra</channel>
+  <channel site="guida.tv" site_id="77688384/mediaset-20" lang="it" xmltv_id="">Mediaset 20</channel>
+  <channel site="guida.tv" site_id="77738486/milan-tv" lang="it" xmltv_id="">Milan TV</channel>
+  <channel site="guida.tv" site_id="79797766/sky-italian-boomerang" lang="it" xmltv_id="">Sky Italian Boomerang</channel>
+  <channel site="guida.tv" site_id="80698367/pesca" lang="it" xmltv_id="">Pesca</channel>
+  <channel site="guida.tv" site_id="82657185/rai-gulp" lang="it" xmltv_id="">Rai gulp</channel>
+  <channel site="guida.tv" site_id="82657377/rai-movie" lang="it" xmltv_id="">RAI Movie</channel>
+  <channel site="guida.tv" site_id="82657380/rai-premium" lang="it" xmltv_id="">Rai Premium</channel>
+  <channel site="guida.tv" site_id="82658350/rai-sport-hd" lang="it" xmltv_id="">Rai Sport HD</channel>
+  <channel site="guida.tv" site_id="82658486/radionorba-tv" lang="it" xmltv_id="">Radionorba TV</channel>
+  <channel site="guida.tv" site_id="82696849/rai-scuola" lang="it" xmltv_id="">Rai Scuola</channel>
+  <channel site="guida.tv" site_id="82738384/rai-storia" lang="it" xmltv_id="">RAI STORIA</channel>
+  <channel site="guida.tv" site_id="82847384/real-time" lang="it" xmltv_id="">Real Time</channel>
+  <channel site="guida.tv" site_id="82847673/rtl-1025" lang="it" xmltv_id="">RTL 102.5</channel>
+  <channel site="guida.tv" site_id="82898979/rai-yoyo" lang="it" xmltv_id="">Rai YoYo</channel>
+  <channel site="guida.tv" site_id="83495451/euronews" lang="it" xmltv_id="">Euronews</channel>
+  <channel site="guida.tv" site_id="83495456/sky-tg24" lang="it" xmltv_id="">Sky TG24</channel>
+  <channel site="guida.tv" site_id="83676779/sky-cinema-comedy" lang="it" xmltv_id="">Sky Cinema Comedy</channel>
+  <channel site="guida.tv" site_id="83676885/sky-cinema-due" lang="it" xmltv_id="">Sky Cinema Due</channel>
+  <channel site="guida.tv" site_id="83677976/sky-cinema-collection" lang="it" xmltv_id="">Sky Cinema Collection</channel>
+  <channel site="guida.tv" site_id="83756572/sky-arte-hdtv" lang="it" xmltv_id="">Sky Arte HDTV</channel>
+  <channel site="guida.tv" site_id="83756584/sky-atlantic-hdtv" lang="it" xmltv_id="">Sky Atlantic HDTV</channel>
+  <channel site="guida.tv" site_id="83756765/sky-cinema-action" lang="it" xmltv_id="">Sky Cinema Action</channel>
+  <channel site="guida.tv" site_id="83756785/sky-cinema-uno" lang="it" xmltv_id="">Sky Cinema Uno</channel>
+  <channel site="guida.tv" site_id="83756882/sky-cinema-drama" lang="it" xmltv_id="">Sky Cinema Drama</channel>
+  <channel site="guida.tv" site_id="83757065/sky-cinema-family" lang="it" xmltv_id="">Sky Cinema Family</channel>
+  <channel site="guida.tv" site_id="83758279/sky-cinema-romance" lang="it" xmltv_id="">Sky Cinema Romance</channel>
+  <channel site="guida.tv" site_id="83758385/sky-cinema-suspense" lang="it" xmltv_id="">Sky Cinema Suspense</channel>
+  <channel site="guida.tv" site_id="83758578/sky-uno" lang="it" xmltv_id="">Sky Uno</channel>
+  <channel site="guida.tv" site_id="83776578/sky-italian-san-marino-rtv" lang="it" xmltv_id="">Sky Italian San Marino RTV</channel>
+  <channel site="guida.tv" site_id="83807384/sport-italia" lang="it" xmltv_id="">Sport Italia</channel>
+  <channel site="guida.tv" site_id="83837049/sky-sport-f1" lang="it" xmltv_id="">Sky Sport F1</channel>
+  <channel site="guida.tv" site_id="83847273/super-tennis-hd" lang="it" xmltv_id="">Super Tennis HD</channel>
+  <channel site="guida.tv" site_id="84675052/top-calcio-24" lang="it" xmltv_id="">Top Calcio 24</channel>
+  <channel site="guida.tv" site_id="84678273/top-crime" lang="it" xmltv_id="">Top Crime</channel>
+</channels>

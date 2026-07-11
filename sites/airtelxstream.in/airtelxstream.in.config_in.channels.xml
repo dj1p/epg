@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="airtelxstream.in" site_id="DISTROTV_LIVETVCHANNEL_4595" lang="en" xmltv_id="">FEVA MUSIC</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_7S_MUSIC" lang="en" xmltv_id="">7S Music</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_9X_JALWA" lang="en" xmltv_id="">9X Jalwa</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_9X_TASHAN" lang="en" xmltv_id="">9X Tashan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_9XM" lang="en" xmltv_id="">9XM</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_10TV" lang="en" xmltv_id="">10TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_A1_NEWS" lang="en" xmltv_id="">A1 News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AADINATH_TV" lang="en" xmltv_id="">AADINATH TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AAJ_KI_KHABAR" lang="en" xmltv_id="">AAJ KI KHABAR</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AAJ_TAK" lang="en" xmltv_id="">Aaj Tak</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AAJ_TAK_HD" lang="en" xmltv_id="">Aaj Tak HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AAKASH_AATH" lang="en" xmltv_id="">Aakash Aath</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AASEERVATHAM_TV" lang="en" xmltv_id="">Aaseervatham TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AASTHA" lang="en" xmltv_id="">AASTHA</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ABN_TELUGU_NEWS" lang="en" xmltv_id="">ABN Telugu News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ABP_ANANDA" lang="en" xmltv_id="">ABP Ananda</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ABP_ASMITA" lang="en" xmltv_id="">ABP Asmita</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ABP_MAJHA" lang="en" xmltv_id="">ABP Majha</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ABP_NEWS" lang="en" xmltv_id="">ABP News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ACTION_CINEMA" lang="en" xmltv_id="">Action Cinema</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ADITHYA_TV" lang="en" xmltv_id="">Adithya TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_ASTROVAANI" lang="en" xmltv_id="">Airtel Astrovaani</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_BANGLA_CINEMA" lang="en" xmltv_id="">Airtel Bangla Cinema</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_BENGAL_INFO" lang="en" xmltv_id="">Airtel Bengal info</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_BHAKTI" lang="en" xmltv_id="">Airtel Bhakti</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_BHOJPURI_CINEMA" lang="en" xmltv_id="">Airtel 90s Bollywood</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_BOLLYWOOD_HUNGAMA" lang="en" xmltv_id="">Airtel Bollywood Hungama</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_CN_CLASSICS" lang="en" xmltv_id="">Airtel CN Classics</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_COMEDY_MASALA" lang="en" xmltv_id="">Airtel Comedy Masala</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_CUSTOMER_CARE_2" lang="en" xmltv_id="">Airtel Customer Care 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_DIVYA_DARSHAN_6" lang="en" xmltv_id="">Airtel Divya Darshan 671</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_DIVYA_DARSHAN_42" lang="en" xmltv_id="">Airtel Divya Darshan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_DIVYA_DARSHAN_43" lang="en" xmltv_id="">Airtel Divya Darshan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_DIVYA_DARSHAN_44" lang="en" xmltv_id="">Airtel Divya Darshan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_DIVYA_DARSHAN_45" lang="en" xmltv_id="">Airtel Divya Darshan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_DIVYA_DARSHAN_46" lang="en" xmltv_id="">Airtel Divya Darshan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_DIVYA_DARSHAN_47" lang="en" xmltv_id="">Airtel Divya Darshan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_DIVYA_DARSHAN_48" lang="en" xmltv_id="">Airtel Divya Darshan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_ENTERTAINMENT_HOME_1" lang="en" xmltv_id="">Airtel Entertainment Home 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_ENTERTAINMENT_HOME_2" lang="en" xmltv_id="">Airtel Entertainment Home 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_FITNESS_STUDIO" lang="en" xmltv_id="">Airtel Fitness Studio</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_FUN_ZONE" lang="en" xmltv_id="">Airtel Fun Zone</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_FUNSCHOOL" lang="en" xmltv_id="">Airtel FunSchool</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_FUNSCHOOL2" lang="en" xmltv_id="">Airtel FunSchool2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_HD_HOME" lang="en" xmltv_id="">Airtel HD Home</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_HOLLYWOOD_DIARIES" lang="en" xmltv_id="">Airtel Hollywood Diaries</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_HOLLYWOOD_DIARIES_REPLICA_OF_LCNSYMHYP242" lang="en" xmltv_id="">Airtel Hollywood Diaries Replica of LCN-242</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_HOLLYWOOD_MASALA" lang="en" xmltv_id="">Airtel Hollywood Masala</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_HOME_STARS" lang="en" xmltv_id="">Airtel HOME STARS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_ILTIJA" lang="en" xmltv_id="">Airtel Iltija</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_INFO_HOME" lang="en" xmltv_id="">Airtel Info Home</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_INFO_HOME_2" lang="en" xmltv_id="">Airtel Info Home 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_KANNADA_INFO_1" lang="en" xmltv_id="">Airtel Kannada info 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_KANNADA_INFO_2" lang="en" xmltv_id="">Airtel Kannada info 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_KANNADA_INFO_3" lang="en" xmltv_id="">Airtel Kannada Info 3</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_KANNADA_INFO_4" lang="en" xmltv_id="">Airtel Tamil Info 3</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_KANNADA_INFO_5" lang="en" xmltv_id="">Airtel Kannada Info 5</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_KANNADA_INFO_6" lang="en" xmltv_id="">Airtel Kannada Info 6</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_KIDS_JUNIOR" lang="en" xmltv_id="">AIRTEL KIDS JUNIOR</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_KOREAN_TVSYMPLUS" lang="en" xmltv_id="">Airtel Korean TV+</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MAJAMA" lang="en" xmltv_id="">Airtel Majama</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MAKE_YOUR_PACK" lang="en" xmltv_id="">Airtel Make Your Pack</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MAKE_YOUR_PACK_7SYMHYP998" lang="en" xmltv_id="">Airtel Make Your Pack 7-998</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MAKE_YOUR_PACK_11SYMHYP998" lang="en" xmltv_id="">Airtel Telugu Info 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MALAYALAM_INFO_1" lang="en" xmltv_id="">Airtel Home 844</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MARATHI_INFO_1" lang="en" xmltv_id="">Airtel Marathi Info 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MARATHI_INFO_3" lang="en" xmltv_id="">Airtel Info 545</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MARATHI_INFO_4" lang="en" xmltv_id="">Airtel Marathi Info 4</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MARATHI_MASALA" lang="en" xmltv_id="">Airtel Marathi Masala</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MINIPLEX" lang="en" xmltv_id="">Airtel Miniplex</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MINIPLEX_HD" lang="en" xmltv_id="">Airtel Miniplex HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MOVIES_HOME" lang="en" xmltv_id="">Airtel Movies Home</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MOVIES_HOME_1" lang="en" xmltv_id="">Airtel Movies Home 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MOVIES_HOME_2" lang="en" xmltv_id="">Airtel Movies Home 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MUSIC_2_REPLICA_OF_LCNSYMHYP479" lang="en" xmltv_id="">Airtel Music Replica of LCN-479</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_MUSIC_REPLICA_OF_LCNSYMHYP479" lang="en" xmltv_id="">Airtel Music Replica of LCN-479</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_NESA_INFO_1" lang="en" xmltv_id="">Airtel NESA Info 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_NEWS_HOME_1" lang="en" xmltv_id="">Airtel News Home 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_NEWS_HOME_4" lang="en" xmltv_id="">Airtel News Home 4</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_OFFERS_1" lang="en" xmltv_id="">Airtel HD Home 99</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_ORIYA_INFO" lang="en" xmltv_id="">Airtel oriya info</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_PLAYLIST" lang="en" xmltv_id="">Airtel Playlist</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_PLAYLIST_REPLICA_OF_LCNSYMHYP479" lang="en" xmltv_id="">Airtel Playlist Replica of LCN-479</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_PUNJABI_CINEMA" lang="en" xmltv_id="">Airtel Punjabi Cinema</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_RAHASYAMAYA_KAHANIYA" lang="en" xmltv_id="">Airtel Rahasyamaya Kahaniya</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_SADABAHAR_CINEMA" lang="en" xmltv_id="">Airtel Sadabahar Cinema</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_SD_HOME" lang="en" xmltv_id="">Airtel SD Home</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_SD_HOME_93" lang="en" xmltv_id="">Airtel SD Home 93</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_SHORTS_TV_PLAY" lang="en" xmltv_id="">Airtel Shorts TV Play</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_SHORTS_TV_PLAY_REPLICA_OF_LCNSYMHYP241" lang="en" xmltv_id="">Airtel Shorts TV Play Replica of LCN-241</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_SOUTH_MASALA" lang="en" xmltv_id="">Airtel South Masala</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_SOUTH_MASALA_1_REPLICA_OF_LCN_199" lang="en" xmltv_id="">Airtel South Masala 1 Replica of LCN 199</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_SOUTH_MASALA_2_REPLICA_OF_LCN_199" lang="en" xmltv_id="">Airtel South Masala 2 Replica of LCN 199</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_SPECIAL_OFFERS" lang="en" xmltv_id="">Airtel Special Offers</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_STAR_PROMO_HOME" lang="en" xmltv_id="">AIRTEL STAR PROMO HOME</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_STAR_PROMO_HOME_2" lang="en" xmltv_id="">Airtel Star Promo Home 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_STAR_PROMO_HOME_3" lang="en" xmltv_id="">Airtel Star Promo Home 3</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_SUNEHRE_PAL" lang="en" xmltv_id="">Airtel Sunehre Pal</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_TAMIL_CINEMA" lang="en" xmltv_id="">Airtel Tamil Cinema</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_TAMIL_INFO_1" lang="en" xmltv_id="">Airtel Tamil Info 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_TAMIL_INFO_2" lang="en" xmltv_id="">Airtel Tamil Info 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_TELUGU_BLOCKBUSTERS" lang="en" xmltv_id="">Airtel Telugu Blockbusters</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_TELUGU_CINEMA" lang="en" xmltv_id="">Airtel Telugu Cinema</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_TELUGU_INFO_1" lang="en" xmltv_id="">Airtel Telugu Info 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_TELUGU_INFO_2" lang="en" xmltv_id="">Airtel Telugu Info 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_TN_HOME" lang="en" xmltv_id="">Airtel TN Home</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AIRTEL_ZINDAGI_SPECIAL" lang="en" xmltv_id="">Airtel Zindagi Special</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ALANKAR" lang="en" xmltv_id="">Alankar</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES" lang="en" xmltv_id="">ALL TIME MOVIES</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AMV_NETWORK" lang="en" xmltv_id="">ONLY BHARAT</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ANB_NEWS" lang="en" xmltv_id="">ANB News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ANIMAL_PLANET" lang="en" xmltv_id="">Animal Planet</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ANIMAL_PLANET_WORLD_HD" lang="en" xmltv_id="">Animal Planet HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ANIME_BOOTH_BY_AIRTEL" lang="en" xmltv_id="">Anime Booth by Airtel</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ARADANA" lang="en" xmltv_id="">ARADANA</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ARGUS" lang="en" xmltv_id="">ARGUS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL" lang="en" xmltv_id="">ARYAN TV NATIONAL</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ASIAN_NEWS" lang="en" xmltv_id="">ASIAN NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ASIANET" lang="en" xmltv_id="">Asianet</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ASIANET_HD" lang="en" xmltv_id="">Asianet HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ASIANET_MOVIES" lang="en" xmltv_id="">Asianet Movies HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ASIANET_MOVIES_HD" lang="en" xmltv_id="">Asianet Movies HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ASIANET_NEWS" lang="en" xmltv_id="">Asianet News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ASIANET_PLUS" lang="en" xmltv_id="">Asianet Plus</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ASSAM_TALKS" lang="en" xmltv_id="">Assam Talks</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_BHOJPURI" lang="en" xmltv_id="">B4U Bhojpuri</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_KADAK" lang="en" xmltv_id="">B4U Kadak</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_MOVIES" lang="en" xmltv_id="">B4U Movies</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_B4U_MUSIC" lang="en" xmltv_id="">B4U Music</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BANSAL_NEWS" lang="en" xmltv_id="">Bansal News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BBC_NEWS" lang="en" xmltv_id="">BBC News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BHAKTI_TV" lang="en" xmltv_id="">Bhakti TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BHARAT_24" lang="en" xmltv_id="">Bharat 24</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS" lang="en" xmltv_id="">Bharat Express</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR" lang="en" xmltv_id="">Bharat Samachar</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA" lang="en" xmltv_id="">BHOJPURI CINEMA</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BIG_MAGIC" lang="en" xmltv_id="">Big Magic</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BIG_TV_24X7" lang="en" xmltv_id="">BIG TV 24X7</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BRK_NEWS" lang="en" xmltv_id="">BRK NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CARTOON_NETWORK" lang="en" xmltv_id="">Cartoon Network</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS" lang="en" xmltv_id="">CARTOON NETWORK HD+</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CBEEBIES" lang="en" xmltv_id="">CBeebies</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CHANNEL_36_UP_UK" lang="en" xmltv_id="">Prime 9 Plus</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CHANNEL_WIN" lang="en" xmltv_id="">Channel WIN</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV" lang="en" xmltv_id="">Chardikla Time TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CHINTU_TV" lang="en" xmltv_id="">Chintu TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CHUMBAK_TV" lang="en" xmltv_id="">SHEMAROO JOSH</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CHUTTI_TV" lang="en" xmltv_id="">Chutti TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CNBC_AWAAZ" lang="en" xmltv_id="">CNBC AWAAZ</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CNBC_BAJAR" lang="en" xmltv_id="">CNBC Bajar</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CNBC_PRIME_HD" lang="en" xmltv_id="">CNBC TV18 PRIME HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CNBC_TV18" lang="en" xmltv_id="">CNBC TV18</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL" lang="en" xmltv_id="">CNN International</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CNN_NEWS18" lang="en" xmltv_id="">CNN News18</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS" lang="en" xmltv_id="">Colors</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_BANGLA" lang="en" xmltv_id="">Colors Bangla</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA" lang="en" xmltv_id="">Colors Bangla Cinema</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_BANGLA_HD" lang="en" xmltv_id="">Colors Bangla HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX" lang="en" xmltv_id="">Colors Cineplex</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD" lang="en" xmltv_id="">COLORS CINEPLEX BOLLYWOOD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD" lang="en" xmltv_id="">Colors Cineplex HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS" lang="en" xmltv_id="">Colors Cineplex Superhits</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_GUJARATI" lang="en" xmltv_id="">COLORS GUJARATI</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_GUJARATI_CINEMA" lang="en" xmltv_id="">Colors Gujarati Cinema</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_HD" lang="en" xmltv_id="">Colors HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_INFINITY" lang="en" xmltv_id="">Colors Infinity</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_INFINITY_HD" lang="en" xmltv_id="">COLORS INFINITY HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_KANNADA" lang="en" xmltv_id="">Colors kannada</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA" lang="en" xmltv_id="">Colors Kannada Cinema</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD" lang="en" xmltv_id="">Colors Kannada HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_MARATHI" lang="en" xmltv_id="">Colors Marathi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_MARATHI_HD" lang="en" xmltv_id="">Colors Marathi HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_RISHTEY" lang="en" xmltv_id="">Colors Rishtey</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_SUPER" lang="en" xmltv_id="">Colors Super</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_TAMIL" lang="en" xmltv_id="">Colors Tamil</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_COLORS_TAMIL_HD" lang="en" xmltv_id="">Colors Tamil HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CUSTOMER_CARE" lang="en" xmltv_id="">Customer Care</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CVR_NEWS" lang="en" xmltv_id="">CVR NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_D_TAMIL" lang="en" xmltv_id="">D Tamil</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DA_NEWS_PLUS" lang="en" xmltv_id="">DA NEWS PLUS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DAILY_POST" lang="en" xmltv_id="">SKYAMA DAILY POST NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DANGAL" lang="en" xmltv_id="">Dangal</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DANGAL_2" lang="en" xmltv_id="">Dangal 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DANGAL_TEST" lang="en" xmltv_id="">RJ PM Evidya 149</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_ARUNPRABHA" lang="en" xmltv_id="">DD Arunprabha</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_BANGLA" lang="en" xmltv_id="">DD Bangla</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_BHARATI" lang="en" xmltv_id="">DD Bharati</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_BIHAR" lang="en" xmltv_id="">DD Bihar</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_CHANDANA" lang="en" xmltv_id="">DD Chandana</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_GIRNAR" lang="en" xmltv_id="">DD Girnar</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_IMPHAL" lang="en" xmltv_id="">DD Manipur</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_INDIA" lang="en" xmltv_id="">DD India</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_INDIA_HD" lang="en" xmltv_id="">DD India HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_KASHIR" lang="en" xmltv_id="">DD Kashir</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_KISAN" lang="en" xmltv_id="">DD Kisan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_MALAYALAM" lang="en" xmltv_id="">DD Malayalam</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_MP" lang="en" xmltv_id="">DD Madhya Pradesh</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_NATIONAL" lang="en" xmltv_id="">DD National</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_NATIONAL_HD" lang="en" xmltv_id="">DD National HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_NEWS" lang="en" xmltv_id="">DD News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_NEWS_HD" lang="en" xmltv_id="">DD News HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_NORTH_EAST" lang="en" xmltv_id="">DD Assam</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_ORIYA" lang="en" xmltv_id="">DD ODIA</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_PUNJABI" lang="en" xmltv_id="">DD Punjabi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_RAJASTHAN" lang="en" xmltv_id="">DD Rajasthan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_SAHYADRI" lang="en" xmltv_id="">DD Sahyadri</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI" lang="en" xmltv_id="">DD Saptagiri</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_SHILLONG" lang="en" xmltv_id="">DD Meghalaya</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_SHIMLA" lang="en" xmltv_id="">DD Himachal</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_SPORTS" lang="en" xmltv_id="">DD Sports</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_SPORTS_HD" lang="en" xmltv_id="">DD Sports HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_TAMIL" lang="en" xmltv_id="">DD Tamil</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_TRIPURA" lang="en" xmltv_id="">DD Tripura</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_UP" lang="en" xmltv_id="">DD UTTAR PRADESH</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_URDU" lang="en" xmltv_id="">DD Urdu</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_YADAGIRI" lang="en" xmltv_id="">DD Yadagiri</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DHARM_SANDESH" lang="en" xmltv_id="">Dharm Sandesh</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DHOOM_MUSIC" lang="en" xmltv_id="">Dhoom Music</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISCOVERY_CHANNEL" lang="en" xmltv_id="">Discovery Channel</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISCOVERY_HD_WORLD" lang="en" xmltv_id="">Discovery HD World</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS" lang="en" xmltv_id="">Discovery Kids</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISCOVERY_SCIENCE" lang="en" xmltv_id="">Discovery Science</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO" lang="en" xmltv_id="">Discovery Turbo</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL" lang="en" xmltv_id="">Disney Channel</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD" lang="en" xmltv_id="">DISNEY CHANNEL HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD" lang="en" xmltv_id="">Disney International HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR" lang="en" xmltv_id="">Disney Junior</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISNEY_STORIES" lang="en" xmltv_id="">Disney Stories</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DIVYAVANI_TV" lang="en" xmltv_id="">Divyavani TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DY365" lang="en" xmltv_id="">DY365</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_E24" lang="en" xmltv_id="">E24</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA" lang="en" xmltv_id="">Enterr10 Bangla</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_EPIC" lang="en" xmltv_id="">Epic</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ET_NOW" lang="en" xmltv_id="">ET NOW</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH" lang="en" xmltv_id="">ET SWADESH</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ETV_ABHIRUCHI" lang="en" xmltv_id="">ETV Abhiruchi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ETV_ANDHRA_PRADESH" lang="en" xmltv_id="">ETV Andhra Pradesh</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ETV_BAL_BHARAT" lang="en" xmltv_id="">ETV Bal Bharat</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ETV_CINEMA" lang="en" xmltv_id="">ETV Cinema</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ETV_HD" lang="en" xmltv_id="">ETV HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ETV_LIFE" lang="en" xmltv_id="">ETV LIFE Spiritual</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ETV_PLUS" lang="en" xmltv_id="">ETV Plus</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ETV_TELANGANA" lang="en" xmltv_id="">ETV Telangana</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ETV_TELUGU" lang="en" xmltv_id="">ETV Telugu</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_EUROSPORT" lang="en" xmltv_id="">Eurosport</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_EUROSPORT_HD" lang="en" xmltv_id="">Eurosport HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_FAKT_MARATHI" lang="en" xmltv_id="">Fakt Marathi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_FILAMCHI_BHOJPURI" lang="en" xmltv_id="">EPIC BHOJPURI</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_FIRST_INDIA_NEWS_RAJASTHAN" lang="en" xmltv_id="">First India News Rajasthan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_FLOWERS_TV" lang="en" xmltv_id="">Flowers TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_FM_NEWS" lang="en" xmltv_id="">FM NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_FRANCE_24" lang="en" xmltv_id="">France 24</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GANGAUR_TELEVISION" lang="en" xmltv_id="">GANGAUR TELEVISION</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GEMINI_COMEDY" lang="en" xmltv_id="">Sun Gemini comedy</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GEMINI_LIFE" lang="en" xmltv_id="">Sun Gemini Life</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GEMINI_MOVIES" lang="en" xmltv_id="">Sun Gemini Movies</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GEMINI_MOVIES_HD" lang="en" xmltv_id="">Sun Gemini Movies HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GEMINI_MUSIC" lang="en" xmltv_id="">SUN GEMINI MUSIC</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GEMINI_MUSIC_HD" lang="en" xmltv_id="">Sun Gemini Music HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GEMINI_TV" lang="en" xmltv_id="">Sun Gemini</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GEMINI_TV_HD" lang="en" xmltv_id="">SUN GEMINI HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOLDMINES" lang="en" xmltv_id="">Goldmines</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOLDMINES_BOLLYWOOD" lang="en" xmltv_id="">Goldmines Bollywood</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOOD_NEWS_TODAY" lang="en" xmltv_id="">Good News Today</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOOD_TIMES" lang="en" xmltv_id="">GOOD TiMES</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOODNESS_TV" lang="en" xmltv_id="">Goodness TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOODNEWS_TV" lang="en" xmltv_id="">Goodnews TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GTCSYMUNDERSCOREPUNJABI" lang="en" xmltv_id="">GTC PUNJABI</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GUARANTEE_NEWS" lang="en" xmltv_id="">GUARANTEE NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GUBBARE" lang="en" xmltv_id="">EPIC KIDS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GULISTAN_NEWS" lang="en" xmltv_id="">Gulistan News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GYANDARSHAN" lang="en" xmltv_id="">Gyandarshan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HARKHABAR" lang="en" xmltv_id="">HARKHABAR</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HARVEST_TV_24X7" lang="en" xmltv_id="">Harvest TV 24x7</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HINDI_KHABAR" lang="en" xmltv_id="">Hindi Khabar</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HISTORY_TV18" lang="en" xmltv_id="">History TV18</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD" lang="en" xmltv_id="">History TV18 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HNN" lang="en" xmltv_id="">HNN</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HORNBILL" lang="en" xmltv_id="">HORNBILL</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HUNGAMA" lang="en" xmltv_id="">HUNGAMA</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_I_NEWS" lang="en" xmltv_id="">I NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_IBC24" lang="en" xmltv_id="">IBC24</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_IND24" lang="en" xmltv_id="">IND24</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_AHEAD" lang="en" xmltv_id="">INDIA AHEAD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_NEWS" lang="en" xmltv_id="">INDIA NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_NEWS_HARYANA" lang="en" xmltv_id="">INDIA NEWS HARYANA</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_NEWS_UPUK" lang="en" xmltv_id="">INDIA NEWS UPUK</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_TODAY" lang="en" xmltv_id="">India Today</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_TV" lang="en" xmltv_id="">India TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_TV_SPEED_NEWS" lang="en" xmltv_id="">INDIA TV SPEED NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INH_24X7" lang="en" xmltv_id="">INH 24X7</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY" lang="en" xmltv_id="">Investigation Discovery</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD" lang="en" xmltv_id="">Investigation Discovery HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ISAI_ARUVI" lang="en" xmltv_id="">Isai Aruvi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ISHARA_TV" lang="en" xmltv_id="">EPIC PARIVAR</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ISHWAR_TV" lang="en" xmltv_id="">Ishwar Bhakti</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_J_MOVIES" lang="en" xmltv_id="">J Movies</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_JAI_MAHARASHTRA" lang="en" xmltv_id="">JAI MAHARASHTRA</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_JAIHIND_TV" lang="en" xmltv_id="">Jaihind TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_JALSHA_MOVIES" lang="en" xmltv_id="">Jalsha Movies</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_JALSHA_MOVIES_HD" lang="en" xmltv_id="">Jalsha Movies HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_JAN_TV" lang="en" xmltv_id="">JAN TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_JANAM_TV" lang="en" xmltv_id="">JANAM TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_JANTA_TV" lang="en" xmltv_id="">Janta TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_JAY_JAGANNATH" lang="en" xmltv_id="">Jay JAGANNATH</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_JAYA_MAX" lang="en" xmltv_id="">Jaya Max</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_JAYA_PLUS" lang="en" xmltv_id="">Jaya Plus</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_JAYA_TV" lang="en" xmltv_id="">Jaya TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_JINVANI_TV" lang="en" xmltv_id="">Jinvani TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_JONACK" lang="en" xmltv_id="">Jonack</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_JOTHI_TV" lang="en" xmltv_id="">JOTHI TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_KAIRALI_NEWS" lang="en" xmltv_id="">Kairali News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_KAIRALI_TV" lang="en" xmltv_id="">Kairali TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_KAIRALI_WE" lang="en" xmltv_id="">Kairali We</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_KALAIGNAR_TV" lang="en" xmltv_id="">Kalaignar TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_KALINGA_TV" lang="en" xmltv_id="">Kalinga TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_KANAK_NEWS" lang="en" xmltv_id="">KANAK NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_KAUMUDY_TV" lang="en" xmltv_id="">Kaumudy TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_KHABAR_FAST" lang="en" xmltv_id="">Khabar Fast</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_KHUSHBOO_BANGLA" lang="en" xmltv_id="">Khushboo Bangla</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_KOCHU_TV" lang="en" xmltv_id="">Kochu TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_KTV" lang="en" xmltv_id="">KTV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_KTV_HD" lang="en" xmltv_id="">KTV HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_KUSHI_TV" lang="en" xmltv_id="">Kushi TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_LAKSHYA_TV" lang="en" xmltv_id="">Lakshya TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_LIVE_TIMES" lang="en" xmltv_id="">LIVE TIMES</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_LIVING_INDIA_NEWS" lang="en" xmltv_id="">Living India News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_LOKSHAHI" lang="en" xmltv_id="">Lokshahi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MADHA_TV" lang="en" xmltv_id="">Madha tv</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MAHAA_MAX" lang="en" xmltv_id="">MAHAA MAX</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MAKKAL_TV" lang="en" xmltv_id="">Makkal TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MANORAMA_NEWS" lang="en" xmltv_id="">Manorama News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MANORANJAN_TV" lang="en" xmltv_id="">Manoranjan Tv</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MATHRUBHUMI_NEWS" lang="en" xmltv_id="">Mathrubhumi News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MAZHAVIL_MANORAMA" lang="en" xmltv_id="">Mazhavil Manorama</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MAZHAVIL_MANORAMA_HD" lang="en" xmltv_id="">Mazhavil Manorama HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MEDIA_ONE" lang="en" xmltv_id="">MEDIA ONE</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MEGA_24" lang="en" xmltv_id="">Mega 24</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MEGA_MUSIQ" lang="en" xmltv_id="">Mega Musiq</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MEGA_TV" lang="en" xmltv_id="">Mega TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MH1" lang="en" xmltv_id="">MH1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MH_ONE_DIL_SE" lang="en" xmltv_id="">MH One Dil Se</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MH_ONE_NEWS" lang="en" xmltv_id="">MH ONE NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA" lang="en" xmltv_id="">MH One Shraddha</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MIRROR_NOW" lang="en" xmltv_id="">MIRROR NOW</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en" xmltv_id="">MN+</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNX" lang="en" xmltv_id="">MNX</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNX_HD" lang="en" xmltv_id="">MNX - HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW" lang="en" xmltv_id="">MOVIES NOW</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="">MOVIES NOW HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MTV" lang="en" xmltv_id="">MTV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MUNSIF_TV" lang="en" xmltv_id="">MUNSIF TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MURASU" lang="en" xmltv_id="">Murasu</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV" lang="en" xmltv_id="">Nambikkai TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NAT_GEO_WILD" lang="en" xmltv_id="">Nat Geo wild</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NAT_GEO_WILD_HD" lang="en" xmltv_id="">Nat Geo Wild HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL" lang="en" xmltv_id="">National Geographic Channel</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL_HD" lang="en" xmltv_id="">National Geographic Channel HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NB_NEWS" lang="en" xmltv_id="">ASOM Live 24</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NDTV_24X7" lang="en" xmltv_id="">NDTV 24x7</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NDTV_INDIA" lang="en" xmltv_id="">NDTV India</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NDTV_MARATHI" lang="en" xmltv_id="">NDTV Marathi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NDTV_MPCG" lang="en" xmltv_id="">NDTV MPCG</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME" lang="en" xmltv_id="">NDTV Profit Prime</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NDTV_RAJASTHAN" lang="en" xmltv_id="">NDTV Rajasthan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS7_TAMIL" lang="en" xmltv_id="">News7 Tamil</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_ASSAM_NORTHSYMHYPEAST" lang="en" xmltv_id="">News18 Assam North-East</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_BANGLA" lang="en" xmltv_id="">News18 Bangla</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_BIHAR_JHARKHAND" lang="en" xmltv_id="">News18 Bihar Jharkhand</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_GUJARATI" lang="en" xmltv_id="">News18 Gujarati</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_INDIA" lang="en" xmltv_id="">News18 India</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_JK_HIMACHAL" lang="en" xmltv_id="">News18 Delhi NCR JK</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_KANNADA" lang="en" xmltv_id="">News18 Kannada</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_KERALA" lang="en" xmltv_id="">News18 Kerala</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_LOKMAT" lang="en" xmltv_id="">News18 Marathi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_MADHYA_PRADESH_CHHATTISGARH" lang="en" xmltv_id="">News18 Madhya Pradesh Chhattisgarh</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_ODIA" lang="en" xmltv_id="">News18 Odia</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_PUNJAB_HARYANA" lang="en" xmltv_id="">News18 Punjab HR HP</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_RAJASTHAN" lang="en" xmltv_id="">News18 Rajasthan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_TAMIL_NADU" lang="en" xmltv_id="">News18 Tamil Nadu</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_UTTAR_PRADESH_UTTARAKHAND" lang="en" xmltv_id="">News18 Uttar Pradesh Uttarakhand</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS24" lang="en" xmltv_id="">News24</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS24_MPCG" lang="en" xmltv_id="">News24 MPCG</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS_1_INDIA" lang="en" xmltv_id="">News 1 India</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS_7" lang="en" xmltv_id="">News7</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS_HOUR" lang="en" xmltv_id="">NEWS HOUR</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS_J" lang="en" xmltv_id="">News J</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS_LIVE" lang="en" xmltv_id="">News Live</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS_MALAYALAM_24X7" lang="en" xmltv_id="">NEWS MALAYALAM 24 X 7</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS_NATION" lang="en" xmltv_id="">News Nation</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS_STATE_MADHYA_PRADESH_CHHATTISGARH" lang="en" xmltv_id="">News State Madhya Pradesh Chhattisgarh</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS_STATE_PB_HP_HR" lang="en" xmltv_id="">NEWS STATE PUNJAB HIMACHAL HARYANA</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS_STATE_UP_UK" lang="en" xmltv_id="">News State UP UK</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7" lang="en" xmltv_id="">News Tamil 24X7</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS_TIME_BANGLA" lang="en" xmltv_id="">News Time Bangla</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NICK" lang="en" xmltv_id="">Nick</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NICK_HDSYMPLUS" lang="en" xmltv_id="">NICK HD+</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NICK_JUNIOR" lang="en" xmltv_id="">Nick Junior</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NORTH_EAST_LIVE" lang="en" xmltv_id="">North East Live</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NTV" lang="en" xmltv_id="">NTV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_OTV" lang="en" xmltv_id="">OTV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PARAS_GOLD_ONE" lang="en" xmltv_id="">Paras Gold One</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PEACE_OF_MIND" lang="en" xmltv_id="">Peace of Mind</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PEARS_TV" lang="en" xmltv_id="">PEAR TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PITAARA" lang="en" xmltv_id="">Pitaara</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_POGO" lang="en" xmltv_id="">Pogo</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_POLIMER_NEWS" lang="en" xmltv_id="">POLIMER NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_POLIMER_TV" lang="en" xmltv_id="">POLIMER TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_POWER_TV" lang="en" xmltv_id="">Power TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PRAG_NEWS" lang="en" xmltv_id="">Prag News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PRARTHANA_BHAWAN" lang="en" xmltv_id="">Prarthana Bhawan</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PRATHANA_LIFE" lang="en" xmltv_id="">Prarthana Life</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PRATIDIN_TIME" lang="en" xmltv_id="">Pratidin Time</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PRAVAH_PICTURE" lang="en" xmltv_id="">Pravah Picture</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PRAVAH_PICTURE_HD" lang="en" xmltv_id="">Pravah Picture HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PTC_CHAKDE" lang="en" xmltv_id="">PTC Chakde</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PTC_MUSIC" lang="en" xmltv_id="">PTC Music</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PTC_NEWS" lang="en" xmltv_id="">PTC News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PTC_PUNJABI" lang="en" xmltv_id="">PTC Punjabi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD" lang="en" xmltv_id="">PTC Punjabi Gold</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PTC_SIMRAN" lang="en" xmltv_id="">PTC Simran</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES" lang="en" xmltv_id="">PUBLIC MOVIES</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC" lang="en" xmltv_id="">PUBLIC MUSIC</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PUBLIC_TV" lang="en" xmltv_id="">Public TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PUDHARI_NEWS" lang="en" xmltv_id="">Pudhari News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PUTHIYA_THALAIMURAI" lang="en" xmltv_id="">Puthiya Thalaimurai</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PUTHU_YUGAM" lang="en" xmltv_id="">Puthu Yugam</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_R_BHARAT" lang="en" xmltv_id="">Republic Bharat</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA" lang="en" xmltv_id="">RAFTAAR MEDIA</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS" lang="en" xmltv_id="">Raj Digital Plus</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RAJ_MUSIX_KANNADA" lang="en" xmltv_id="">Raj Musix Kannada</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM" lang="en" xmltv_id="">Raj Musix Malayalam</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL" lang="en" xmltv_id="">Raj Musix Tamil</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU" lang="en" xmltv_id="">Raj Musix Telugu</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RAJ_NAGAICHUVAI" lang="en" xmltv_id="">RAJ NAGAICHUVAI</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA" lang="en" xmltv_id="">Raj News Kannada</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RAJ_NEWS_MALAYALAM" lang="en" xmltv_id="">Raj News Malayalam</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RAJ_NEWS_TAMIL" lang="en" xmltv_id="">Raj News Tamil</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RAJ_NEWS_TELUGU" lang="en" xmltv_id="">Raj News Telugu</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RAJ_TV" lang="en" xmltv_id="">Raj TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RAMDHENU" lang="en" xmltv_id="">Ramdhenu</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RANG" lang="en" xmltv_id="">Rang</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RENGONI_TV" lang="en" xmltv_id="">Rengoni TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_REPORTER_TV" lang="en" xmltv_id="">REPORTER TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_REPUBLIC_TV" lang="en" xmltv_id="">Republic Tv</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ROMEDY_NOW" lang="en" xmltv_id="">ROMEDY NOW</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ROZANA_SPOKSMAN" lang="en" xmltv_id="">ROZANA SPOKESMAN</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RSYMDOT_BANGLA" lang="en" xmltv_id="">Republic Bangla</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RSYMDOTKANNADA" lang="en" xmltv_id="">Republic Kannada</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RT" lang="en" xmltv_id="">RT</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RUPOSHI_BANGLA_TV" lang="en" xmltv_id="">Ruposhi Bangla TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SAAM_TV" lang="en" xmltv_id="">Saam TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SADHNA" lang="en" xmltv_id="">Sadhna Gold</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SADHNA_PRIME_NEWS" lang="en" xmltv_id="">Sadhna Prime News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SAFARI_TV" lang="en" xmltv_id="">Safari TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SAI_TV" lang="en" xmltv_id="">SAI TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SAKSHI_TV" lang="en" xmltv_id="">Sakshi TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SALAAM_TV" lang="en" xmltv_id="">Salaam TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANDESH_NEWS" lang="en" xmltv_id="">Sandesh News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANGEET_BANGLA" lang="en" xmltv_id="">Sangeet Bangla</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANGEET_MARATHI" lang="en" xmltv_id="">Sangeet Marathi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANSAD_TV" lang="en" xmltv_id="">Sansad TV - 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANSAD_TV_HD" lang="en" xmltv_id="">Sansad TV - 2 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD" lang="en" xmltv_id="">Sansad TV - 1 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_RAJYA_SABHA" lang="en" xmltv_id="">Sansad TV - 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANSKAR" lang="en" xmltv_id="">Sanskar</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANTVANI" lang="en" xmltv_id="">Santvani</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SARV_DHARAM_SANGAM" lang="en" xmltv_id="">Sarv Dharam Sangam</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SATHIYAM_TV" lang="en" xmltv_id="">Sathiyam TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SATSANG" lang="en" xmltv_id="">Satsang</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7" lang="en" xmltv_id="">Seithigal 24x7</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SET" lang="en" xmltv_id="">SET</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SET_HD" lang="en" xmltv_id="">SET HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SHALOM_TV" lang="en" xmltv_id="">Shalom TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA" lang="en" xmltv_id="">SHEMAROO MARATHIBANA</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SHEMAROO_TV" lang="en" xmltv_id="">Shemaroo TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG" lang="en" xmltv_id="">Shemaroo Umang</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SHOWBOX" lang="en" xmltv_id="">EPIC MUSIC</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SHUBH_TV" lang="en" xmltv_id="">Shubh TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV" lang="en" xmltv_id="">Shubhsandesh TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SIDHARTH_BHAKTI" lang="en" xmltv_id="">SIDHARTH UTSAV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SIDHARTH_GOLD" lang="en" xmltv_id="">SIDHARTH GOLD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SIDHARTH_TV" lang="en" xmltv_id="">SIDHARTH TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SIRIPPOLI" lang="en" xmltv_id="">Sirippoli</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONIC" lang="en" xmltv_id="">Sonic</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_8" lang="en" xmltv_id="">SONY AATH</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH" lang="en" xmltv_id="">Sony BBC earth</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD" lang="en" xmltv_id="">Sony BBC earth HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_MARATHI" lang="en" xmltv_id="">Sony Marathi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_MAX" lang="en" xmltv_id="">SONY Max</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_MAX_1" lang="en" xmltv_id="">SONY MAX 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_MAX_2" lang="en" xmltv_id="">Sony Max 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_MAX_HD" lang="en" xmltv_id="">Sony MAX HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_PAL" lang="en" xmltv_id="">Sony Pal</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_PIX" lang="en" xmltv_id="">SONY PIX</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_PIX_HD" lang="en" xmltv_id="">Sony Pix HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SAB" lang="en" xmltv_id="">SONY SAB</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SAB_HD" lang="en" xmltv_id="">Sony SAB HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1" lang="en" xmltv_id="">SONY SPORTS TEN 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD" lang="en" xmltv_id="">SONY SPORTS TEN 1 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2" lang="en" xmltv_id="">SONY SPORTS TEN 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD" lang="en" xmltv_id="">SONY SPORTS TEN 2 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3" lang="en" xmltv_id="">Sony Sports Ten 3 Hindi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3_HD" lang="en" xmltv_id="">SONY SPORTS TEN 3 HINDI HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_4" lang="en" xmltv_id="">SONY SPORTS TEN 4 TAMIL</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_4_HD" lang="en" xmltv_id="">Sony Sports Ten 4 Telugu</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_4_KANNADA" lang="en" xmltv_id="">SONY SPORTS TEN 4 KANNADA</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5" lang="en" xmltv_id="">SONY SPORTS TEN 5</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD" lang="en" xmltv_id="">SONY SPORTS TEN 5 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_WAH" lang="en" xmltv_id="">Sony Wah</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_YAY" lang="en" xmltv_id="">Sony Yay</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SPORTS18_SYMHYP_1_HD" lang="en" xmltv_id="">Star Sports 2 Hindi HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SPORTS18SYMHYP1" lang="en" xmltv_id="">Star Sports 2 Hindi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SPORTS18SYMHYP3" lang="en" xmltv_id="">Star Sports 2 Tamil</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SPORTS_18_2" lang="en" xmltv_id="">Star Sports 2 Telugu</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SRI_JAGANNATH_DHAM" lang="en" xmltv_id="">SRI JAGANNATH DHAM</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_BHARAT" lang="en" xmltv_id="">Star Bharat</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD" lang="en" xmltv_id="">Star Bharat HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD" lang="en" xmltv_id="">Star Gold</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_2" lang="en" xmltv_id="">Star Gold 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD" lang="en" xmltv_id="">Star Gold 2 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_HD" lang="en" xmltv_id="">Star Gold HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE" lang="en" xmltv_id="">Star Gold Romance</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT" lang="en" xmltv_id="">Star Gold Select</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT_HD" lang="en" xmltv_id="">Star Gold Select HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS" lang="en" xmltv_id="">Star Gold Thrills</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_JALSHA" lang="en" xmltv_id="">Star Jalsha</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_JALSHA_HD" lang="en" xmltv_id="">Star Jalsha HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_KIRAN" lang="en" xmltv_id="">Star Kiran</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MAA" lang="en" xmltv_id="">Maa TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MAA_GOLD" lang="en" xmltv_id="">Maa Gold</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MAA_HD" lang="en" xmltv_id="">Maa TV HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES" lang="en" xmltv_id="">Maa Movies</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES_HD" lang="en" xmltv_id="">Star Maa Movies HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MAA_MUSIC" lang="en" xmltv_id="">Star Maa Music</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES" lang="en" xmltv_id="">STAR MOVIES</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD" lang="en" xmltv_id="">Star Movies HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT" lang="en" xmltv_id="">STAR MOVIES SELECT</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD" lang="en" xmltv_id="">Star Movies Select HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_PLUS" lang="en" xmltv_id="">Star Plus</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_PLUS_HD" lang="en" xmltv_id="">Star Plus HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_PRAVAH" lang="en" xmltv_id="">Star Pravah</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_PRAVAH_HD" lang="en" xmltv_id="">Star Pravah HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1" lang="en" xmltv_id="">Star Sports 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD" lang="en" xmltv_id="">Star Sports 1 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI" lang="en" xmltv_id="">Star Sports Hindi 1 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI" lang="en" xmltv_id="">Star Sports Hindi 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_KANNADA" lang="en" xmltv_id="">Star Sports 1 Kannada</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL" lang="en" xmltv_id="">Star Sports 1 Tamil</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL_HD" lang="en" xmltv_id="">Star Sports 1 Tamil HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TELUGU" lang="en" xmltv_id="">Star Sports 1 Telugu</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TELUGU_HD" lang="en" xmltv_id="">Star Sports 1 Telugu HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_2" lang="en" xmltv_id="">Star Sports 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD" lang="en" xmltv_id="">Star Sports 2 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_TAMIL_HD" lang="en" xmltv_id="">Star Sports 2 Tamil HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_TELUGU_HD" lang="en" xmltv_id="">Star Sports 2 Telugu HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_3" lang="en" xmltv_id="">Star Sports 3</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_4K" lang="en" xmltv_id="">Star 4K</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_FIRST" lang="en" xmltv_id="">Star Sports 2 Kannada</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL" lang="en" xmltv_id="">STAR SPORTS KHEL</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1" lang="en" xmltv_id="">Star Sports Select 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD" lang="en" xmltv_id="">Star Sports Select 1 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2" lang="en" xmltv_id="">Star Sports Select 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD" lang="en" xmltv_id="">Star Sports Select 2 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SUVARNA" lang="en" xmltv_id="">Star Suvarna</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SUVARNA_HD" lang="en" xmltv_id="">Star Suvarna HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SUVARNA_PLUS" lang="en" xmltv_id="">Star Suvarna Plus</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_UTSAV" lang="en" xmltv_id="">Star Utsav</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES" lang="en" xmltv_id="">STAR UTSAV MOVIES</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_VIJAY" lang="en" xmltv_id="">Star Vijay</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUBHAVAARTHA" lang="en" xmltv_id="">Subhavaartha</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUDARSHAN_NEWS" lang="en" xmltv_id="">Sudarshan News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUN_BANGLA" lang="en" xmltv_id="">Sun Bangla</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUN_LIFE" lang="en" xmltv_id="">Sun Life</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUN_MARATHI" lang="en" xmltv_id="">SUN MARATHI</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUN_MARATHI_HD" lang="en" xmltv_id="">Sun Marathi HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUN_MUSIC" lang="en" xmltv_id="">Sun Music</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUN_MUSIC_HD" lang="en" xmltv_id="">Sun Music HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUN_NEO" lang="en" xmltv_id="">SUN NEO</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUN_NEWS" lang="en" xmltv_id="">Sun News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUN_TV" lang="en" xmltv_id="">Sun TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUN_TV_HD" lang="en" xmltv_id="">Sun TV HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA" lang="en" xmltv_id="">Super Hungama</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SURYA_COMEDY" lang="en" xmltv_id="">Sun Surya Comedy</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SURYA_HD" lang="en" xmltv_id="">Sun Surya HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SURYA_MOVIES" lang="en" xmltv_id="">Sun Surya Movies</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SURYA_MUSIC" lang="en" xmltv_id="">Sun Surya Music</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SURYA_TV" lang="en" xmltv_id="">Sun Surya</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD" lang="en" xmltv_id="">&amp; Pictures HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMAND_TV_HD" lang="en" xmltv_id="">&amp; TV HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDFLIX" lang="en" xmltv_id="">Unite8 Sports 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD" lang="en" xmltv_id="">Unite8 Sports 2 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDPICTURES" lang="en" xmltv_id="">&amp;Pictures</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDTV" lang="en" xmltv_id="">&amp;TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD" lang="en" xmltv_id="">&amp;Xplor HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_T_NEWS" lang="en" xmltv_id="">T NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TABBAR_HITS" lang="en" xmltv_id="">Tabbar Hits</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TAMIL_JANAM" lang="en" xmltv_id="">TAMIL JANAM</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TAMIL_NAAPTOL" lang="en" xmltv_id="">Tamil Naaptol</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TARANG" lang="en" xmltv_id="">Tarang</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TARANG_MUSIC" lang="en" xmltv_id="">Tarang Music</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TELUGU_NAAPTOL" lang="en" xmltv_id="">Telugu Naaptol</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TIMES_NOW" lang="en" xmltv_id="">TIMES NOW</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT" lang="en" xmltv_id="">NAVBHARAT</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT_HD" lang="en" xmltv_id="">Times Now Navbharat HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TIMES_NOW_WORLD_HD" lang="en" xmltv_id="">Times Now World HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TLC" lang="en" xmltv_id="">TLC</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TLC_HD" lang="en" xmltv_id="">TLC HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TNP_NEWS" lang="en" xmltv_id="">TNP NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TOTAL_TV" lang="en" xmltv_id="">Total TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TRAVELXP" lang="en" xmltv_id="">Travelxp</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TV5_KANNADA" lang="en" xmltv_id="">TV 5 Kannada</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TV5_MONDE_ASIA" lang="en" xmltv_id="">TV5 Monde Asia</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TV5_TELUGU" lang="en" xmltv_id="">TV5 Telugu</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TV9_BANGLA" lang="en" xmltv_id="">TV9 Bangla</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TV9_BHARATVARSH" lang="en" xmltv_id="">TV9 Bharatvarsh</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TV9_GUJARATI" lang="en" xmltv_id="">TV9 Gujarati</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TV9_KANNADA" lang="en" xmltv_id="">TV9 Kannada</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TV9_MARATHI" lang="en" xmltv_id="">TV9 Marathi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS" lang="en" xmltv_id="">TV9 Telugu News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TV13_GUJARATI" lang="en" xmltv_id="">TV13 GUJARATI</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TV_24" lang="en" xmltv_id="">TV 24</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TV_27_NEWS" lang="en" xmltv_id="">TV 27 NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TWENTY_FOUR" lang="en" xmltv_id="">Twenty Four</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_UDAYA_COMEDY" lang="en" xmltv_id="">Sun Udaya Comedy</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_UDAYA_HD" lang="en" xmltv_id="">Sun Udaya HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_UDAYA_MOVIES" lang="en" xmltv_id="">SUN UDAYA MOVIES</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_UDAYA_MUSIC" lang="en" xmltv_id="">SUN UDAYA MUSIC</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_UDAYA_TV" lang="en" xmltv_id="">SUN UDAYA</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_V6_NEWS" lang="en" xmltv_id="">V6 NEWS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VASANTH_TV" lang="en" xmltv_id="">Vasanth TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VERTANT_SAMACHAR_PLUS" lang="en" xmltv_id="">VERTANT SAMACHAR PLUS</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VIJAY_HD" lang="en" xmltv_id="">Star Vijay HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VIJAY_SUPER_HD" lang="en" xmltv_id="">VIJAY SUPER HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VIJAY_TAKKAR" lang="en" xmltv_id="">Vijay Takkar</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VIJAYSUPER" lang="en" xmltv_id="">VIJAYSUPER</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VIP_NEWS" lang="en" xmltv_id="">VIP News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VISSA_TV" lang="en" xmltv_id="">Vissa TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VISTAAR_NEWS" lang="en" xmltv_id="">Vistaar News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VTV_GUJARATI" lang="en" xmltv_id="">VTV Gujarati</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_WELCOME_CHANNEL" lang="en" xmltv_id="">Welcome Channel</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_WION" lang="en" xmltv_id="">WION</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_WPN_WORLD_PUNJABI" lang="en" xmltv_id="">WPN WORLD PUNJABI</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_24_GHANTA" lang="en" xmltv_id="">Zee 24 Ghanta</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_24_KALAK" lang="en" xmltv_id="">Zee 24 Kalak</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_24_TAAS" lang="en" xmltv_id="">Zee 24 Taas</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL" lang="en" xmltv_id="">Anmol TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA" lang="en" xmltv_id="">Anmol Cinema</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2" lang="en" xmltv_id="">Anmol Cinema 2</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_BANGLA" lang="en" xmltv_id="">Zee Bangla</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_BANGLA_CINEMA" lang="en" xmltv_id="">Zee Bangla Sonar</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD" lang="en" xmltv_id="">Zee Bangla HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_BHARAT" lang="en" xmltv_id="">Zee Bharat</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_BIHAR_JHARKHAND" lang="en" xmltv_id="">Zee Bihar Jharkhand</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_BISKOPE" lang="en" xmltv_id="">Zee Biskope</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD" lang="en" xmltv_id="">Zee Bollywood</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_BUSINESS" lang="en" xmltv_id="">Zee Business</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CAFE" lang="en" xmltv_id="">Unite8 Sports 1</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD" lang="en" xmltv_id="">Unite8 Sports 1 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CINEMA" lang="en" xmltv_id="">Zee Cinema</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD" lang="en" xmltv_id="">Zee Cinema HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CINEMALU" lang="en" xmltv_id="">Zee Cinemalu</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD" lang="en" xmltv_id="">Zee Cinemalu HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_CLASSIC" lang="en" xmltv_id="">Zee Classic</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_DELHI_NCR_HARYANA" lang="en" xmltv_id="">ZEE Delhi NCR Haryana</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_KANNADA" lang="en" xmltv_id="">Zee Kannada</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD" lang="en" xmltv_id="">Zee Kannada HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_KERALAM" lang="en" xmltv_id="">Zee Keralam</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_KERALAM_HD" lang="en" xmltv_id="">Zee Keralam HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_MADHYA_PRADESH_CHHATTISGARH" lang="en" xmltv_id="">Zee Madhya Pradesh Chhattisgarh</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_MARATHI" lang="en" xmltv_id="">Zee Marathi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_MARATHI_HD" lang="en" xmltv_id="">Zee Marathi HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_NEWS" lang="en" xmltv_id="">Zee News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_PICCHAR" lang="en" xmltv_id="">Zee Power</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_PICCHAR_HD" lang="en" xmltv_id="">Zee Power HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_PUNJAB_HARYANA_HIMACHAL" lang="en" xmltv_id="">Zee Punjab Haryana Himachal</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_PUNJABI" lang="en" xmltv_id="">Zee Punjabi</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS" lang="en" xmltv_id="">Zee Rajasthan News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_SARTHAK" lang="en" xmltv_id="">Zee Sarthak</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_TALKIES" lang="en" xmltv_id="">Zee Talkies</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_TALKIES_HD" lang="en" xmltv_id="">Zee Talkies HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_TAMIL_HD" lang="en" xmltv_id="">Zee Tamil HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_TAMIZH" lang="en" xmltv_id="">ZEE TAMIZH</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_TELUGU" lang="en" xmltv_id="">Zee Telugu</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD" lang="en" xmltv_id="">Zee Telugu HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_THIRAI" lang="en" xmltv_id="">Zee Thirai</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_THIRAI_HD" lang="en" xmltv_id="">ZEE THIRAI HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_TV" lang="en" xmltv_id="">Zee TV</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_TV_HD" lang="en" xmltv_id="">Zee TV HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_UTTAR_PRADESH_UTTARAKHAND" lang="en" xmltv_id="">Zee Uttar Pradesh Uttarakhand</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_YUVA" lang="en" xmltv_id="">Zee Yuva</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ZEST" lang="en" xmltv_id="">Zee Zest</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ZEST_HD" lang="en" xmltv_id="">ZEE ZEST HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZING" lang="en" xmltv_id="">Zing</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZOOM" lang="en" xmltv_id="">Zoom</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_2" lang="en" xmltv_id="">Cineshorts Premiere</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_4" lang="en" xmltv_id="">Pocket Films</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_6" lang="en" xmltv_id="">Terribly Tiny Tales</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_7" lang="en" xmltv_id="">Runn Action</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_10" lang="en" xmltv_id="">Runn Short Films</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_11" lang="en" xmltv_id="">Runn Thrillers</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_21" lang="en" xmltv_id="">Runn PrimeTime</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_29" lang="en" xmltv_id="">Superfine Films</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_31" lang="en" xmltv_id="">News Nation</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_36" lang="en" xmltv_id="">News State UP/UK</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_39" lang="en" xmltv_id="">NH BollyGold</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_40" lang="en" xmltv_id="">NH BollyFlix</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_41" lang="en" xmltv_id="">NH BollyRaga</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_94" lang="en" xmltv_id="">Green Gold TV</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_95" lang="en" xmltv_id="">Alright</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_120" lang="en" xmltv_id="">News State Bihar/JH</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_121" lang="en" xmltv_id="">News State MP/CG</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_122" lang="en" xmltv_id="">News State Punjab/HR</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_123" lang="en" xmltv_id="">Eros Universe Bollywood Cinema</channel>
+  <channel site="airtelxstream.in" site_id="RUNNTV_LIVECHANNEL_124" lang="en" xmltv_id="">Eros Universe Entertainment</channel>
+  <channel site="airtelxstream.in" site_id="TIMESPLAY_LIVECHANNEL_channel_20" lang="en" xmltv_id="">PICKLEBALL NOW</channel>
+  <channel site="airtelxstream.in" site_id="XSTREAMADS_LIVETVCHANNEL_shikshatv" lang="en" xmltv_id="">Shiksha TV</channel>
+</channels>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="ipko.tv" site_id="3PLUS" lang="sq" xmltv_id="">3 Plus</channel>
+  <channel site="ipko.tv" site_id="21JUNIOR" lang="sq" xmltv_id="">21 Junior</channel>
+  <channel site="ipko.tv" site_id="21MIX" lang="sq" xmltv_id="">21 Mix</channel>
+  <channel site="ipko.tv" site_id="21PLUS" lang="sq" xmltv_id="">21 Plus</channel>
+  <channel site="ipko.tv" site_id="21POPULLORE" lang="sq" xmltv_id="">21 Popullore</channel>
+  <channel site="ipko.tv" site_id="24TV" lang="sq" xmltv_id="">24 TV</channel>
+  <channel site="ipko.tv" site_id="A2" lang="sq" xmltv_id="">A2</channel>
+  <channel site="ipko.tv" site_id="A2CNN" lang="sq" xmltv_id="">A2 CNN</channel>
+  <channel site="ipko.tv" site_id="ABCNEWS" lang="sq" xmltv_id="">ABC News</channel>
+  <channel site="ipko.tv" site_id="ADULT1" lang="sq" xmltv_id="">Adult 1</channel>
+  <channel site="ipko.tv" site_id="ADULT2" lang="sq" xmltv_id="">Adult 2</channel>
+  <channel site="ipko.tv" site_id="AHABER" lang="sq" xmltv_id="">A Haber</channel>
+  <channel site="ipko.tv" site_id="ALBUKTV" lang="sq" xmltv_id="">ALB UK TV</channel>
+  <channel site="ipko.tv" site_id="ALJAZEERA" lang="sq" xmltv_id="">Al jazeera</channel>
+  <channel site="ipko.tv" site_id="ALSATM" lang="sq" xmltv_id="">Alsat M</channel>
+  <channel site="ipko.tv" site_id="ANEWS" lang="sq" xmltv_id="">A News</channel>
+  <channel site="ipko.tv" site_id="APARA" lang="sq" xmltv_id="">A Para</channel>
+  <channel site="ipko.tv" site_id="ASPOR" lang="sq" xmltv_id="">A Spor</channel>
+  <channel site="ipko.tv" site_id="ATDTV" lang="sq" xmltv_id="">ATD TV</channel>
+  <channel site="ipko.tv" site_id="ATV" lang="sq" xmltv_id="">ATV</channel>
+  <channel site="ipko.tv" site_id="ATV(TURKEY" lang="sq" xmltv_id="">ATV (Turkey)</channel>
+  <channel site="ipko.tv" site_id="BANGBANG" lang="sq" xmltv_id="">Bang Bang</channel>
+  <channel site="ipko.tv" site_id="BBF" lang="sq" xmltv_id="">BBF</channel>
+  <channel site="ipko.tv" site_id="BEATTV" lang="sq" xmltv_id="">Beat TV</channel>
+  <channel site="ipko.tv" site_id="BUBBLE" lang="sq" xmltv_id="">Bubble</channel>
+  <channel site="ipko.tv" site_id="CLICKTV" lang="sq" xmltv_id="">Click TV</channel>
+  <channel site="ipko.tv" site_id="CLUBTV" lang="sq" xmltv_id="">Club TV</channel>
+  <channel site="ipko.tv" site_id="CUFO" lang="sq" xmltv_id="">Cufo</channel>
+  <channel site="ipko.tv" site_id="DOKU1" lang="sq" xmltv_id="">Doku 1</channel>
+  <channel site="ipko.tv" site_id="DOKU2" lang="sq" xmltv_id="">Doku 2</channel>
+  <channel site="ipko.tv" site_id="DORCELTV" lang="sq" xmltv_id="">Dorcel TV</channel>
+  <channel site="ipko.tv" site_id="DORCELXXX" lang="sq" xmltv_id="">Dorcel XXX</channel>
+  <channel site="ipko.tv" site_id="DREAMPORN" lang="sq" xmltv_id="">Dream Porn</channel>
+  <channel site="ipko.tv" site_id="DREAMTURK" lang="sq" xmltv_id="">Dream Turk</channel>
+  <channel site="ipko.tv" site_id="DTV" lang="sq" xmltv_id="">DTV</channel>
+  <channel site="ipko.tv" site_id="ELRODI" lang="sq" xmltv_id="">Elrodi</channel>
+  <channel site="ipko.tv" site_id="EPISODE" lang="sq" xmltv_id="">Episode</channel>
+  <channel site="ipko.tv" site_id="EROXXX" lang="sq" xmltv_id="">Eroxxx</channel>
+  <channel site="ipko.tv" site_id="ETV" lang="sq" xmltv_id="">E -TV</channel>
+  <channel site="ipko.tv" site_id="EUROD" lang="sq" xmltv_id="">Euro D</channel>
+  <channel site="ipko.tv" site_id="EUROFILM" lang="sq" xmltv_id="">EuroFilm</channel>
+  <channel site="ipko.tv" site_id="EURONEWSALBANIA" lang="sq" xmltv_id="">Euronews Albania</channel>
+  <channel site="ipko.tv" site_id="EUROSTAR" lang="sq" xmltv_id="">Euro Star</channel>
+  <channel site="ipko.tv" site_id="EXPHISTORI" lang="sq" xmltv_id="">EXP Histori</channel>
+  <channel site="ipko.tv" site_id="EXPSHKENCE" lang="sq" xmltv_id="">EXP Shkence</channel>
+  <channel site="ipko.tv" site_id="FAMILYHD" lang="sq" xmltv_id="">Family HD</channel>
+  <channel site="ipko.tv" site_id="FAXNEWS" lang="sq" xmltv_id="">Fax News</channel>
+  <channel site="ipko.tv" site_id="FERMAVIP1" lang="sq" xmltv_id="">FERMA VIP 1</channel>
+  <channel site="ipko.tv" site_id="FERMAVIP2" lang="sq" xmltv_id="">FERMA VIP 2</channel>
+  <channel site="ipko.tv" site_id="FILMAKSION" lang="sq" xmltv_id="">Film Aksion</channel>
+  <channel site="ipko.tv" site_id="FILMAUTOR" lang="sq" xmltv_id="">Film Autor</channel>
+  <channel site="ipko.tv" site_id="FILMDRAME" lang="sq" xmltv_id="">Film Drame</channel>
+  <channel site="ipko.tv" site_id="FILMHITSHD" lang="sq" xmltv_id="">Film Hits HD</channel>
+  <channel site="ipko.tv" site_id="FILMKOMEDI" lang="sq" xmltv_id="">Film Komedi</channel>
+  <channel site="ipko.tv" site_id="FILMTHRILLER" lang="sq" xmltv_id="">Film Thriller</channel>
+  <channel site="ipko.tv" site_id="FIRSTCHANNEL" lang="sq" xmltv_id="">First Channel</channel>
+  <channel site="ipko.tv" site_id="FOLK" lang="sq" xmltv_id="">Folk +</channel>
+  <channel site="ipko.tv" site_id="FRANCE24" lang="sq" xmltv_id="">France 24</channel>
+  <channel site="ipko.tv" site_id="GODTV" lang="sq" xmltv_id="">God TV</channel>
+  <channel site="ipko.tv" site_id="GOLDHD" lang="sq" xmltv_id="">Gold HD</channel>
+  <channel site="ipko.tv" site_id="GURMANIA" lang="sq" xmltv_id="">Gurmania</channel>
+  <channel site="ipko.tv" site_id="HABERTURK" lang="sq" xmltv_id="">Haber Turk</channel>
+  <channel site="ipko.tv" site_id="HALKTV" lang="sq" xmltv_id="">Halk TV</channel>
+  <channel site="ipko.tv" site_id="IPKOPROMO" lang="sq" xmltv_id="">IPKO Promo</channel>
+  <channel site="ipko.tv" site_id="JUNIORTV" lang="sq" xmltv_id="">Junior TV</channel>
+  <channel site="ipko.tv" site_id="KANAL7" lang="sq" xmltv_id="">Kanal 7</channel>
+  <channel site="ipko.tv" site_id="KANAL10" lang="sq" xmltv_id="">Kanal 10</channel>
+  <channel site="ipko.tv" site_id="KANALDDRAMA" lang="sq" xmltv_id="">KanalD Drama</channel>
+  <channel site="ipko.tv" site_id="KANALI7" lang="sq" xmltv_id="">Kanali 7</channel>
+  <channel site="ipko.tv" site_id="KBPEJA" lang="sq" xmltv_id="">KB Peja</channel>
+  <channel site="ipko.tv" site_id="KIDS" lang="sq" xmltv_id="">Kids</channel>
+  <channel site="ipko.tv" site_id="KINO1" lang="sq" xmltv_id="">Kino 1</channel>
+  <channel site="ipko.tv" site_id="KINO2" lang="sq" xmltv_id="">Kino 2</channel>
+  <channel site="ipko.tv" site_id="KINO3" lang="sq" xmltv_id="">Kino 3</channel>
+  <channel site="ipko.tv" site_id="KLAN" lang="sq" xmltv_id="">Klan</channel>
+  <channel site="ipko.tv" site_id="KLANKOSOVA" lang="sq" xmltv_id="">Klan Kosova</channel>
+  <channel site="ipko.tv" site_id="KLANMUSIC" lang="sq" xmltv_id="">Klan Music</channel>
+  <channel site="ipko.tv" site_id="KLANNEWS" lang="sq" xmltv_id="">Klan News</channel>
+  <channel site="ipko.tv" site_id="KLANPLUS" lang="sq" xmltv_id="">Klan Plus</channel>
+  <channel site="ipko.tv" site_id="KSPORT1" lang="sq" xmltv_id="">K-Sport 1</channel>
+  <channel site="ipko.tv" site_id="KSPORT2" lang="sq" xmltv_id="">K-Sport 2</channel>
+  <channel site="ipko.tv" site_id="KSPORT3" lang="sq" xmltv_id="">K-Sport 3</channel>
+  <channel site="ipko.tv" site_id="KSPORT4" lang="sq" xmltv_id="">K-Sport 4</channel>
+  <channel site="ipko.tv" site_id="KTV" lang="sq" xmltv_id="">KTV</channel>
+  <channel site="ipko.tv" site_id="LIFEHD" lang="sq" xmltv_id="">Life HD</channel>
+  <channel site="ipko.tv" site_id="linear://prd-spectar.ipko.com/linear-16595" lang="sq" xmltv_id="">Test</channel>
+  <channel site="ipko.tv" site_id="LIVINGHD" lang="sq" xmltv_id="">Living HD</channel>
+  <channel site="ipko.tv" site_id="MAXHD" lang="sq" xmltv_id="">Max HD</channel>
+  <channel site="ipko.tv" site_id="MELODYTV" lang="sq" xmltv_id="">Melody TV</channel>
+  <channel site="ipko.tv" site_id="MUSE" lang="sq" xmltv_id="">Muse</channel>
+  <channel site="ipko.tv" site_id="MYMUSIC" lang="sq" xmltv_id="">My Music</channel>
+  <channel site="ipko.tv" site_id="NEWS24" lang="sq" xmltv_id="">News 24</channel>
+  <channel site="ipko.tv" site_id="NOVELAS" lang="sq" xmltv_id="">Novelas</channel>
+  <channel site="ipko.tv" site_id="NTV" lang="sq" xmltv_id="">NTV</channel>
+  <channel site="ipko.tv" site_id="ONTV" lang="sq" xmltv_id="">On TV</channel>
+  <channel site="ipko.tv" site_id="ORANEWS" lang="sq" xmltv_id="">Ora News</channel>
+  <channel site="ipko.tv" site_id="PANORAMA" lang="sq" xmltv_id="">Panorama</channel>
+  <channel site="ipko.tv" site_id="PEACETV" lang="sq" xmltv_id="">Peace TV</channel>
+  <channel site="ipko.tv" site_id="PLAYBOY" lang="sq" xmltv_id="">Playboy</channel>
+  <channel site="ipko.tv" site_id="POSITIVEGOLD" lang="sq" xmltv_id="">Positive Gold</channel>
+  <channel site="ipko.tv" site_id="POWERTURK" lang="sq" xmltv_id="">Power Turk</channel>
+  <channel site="ipko.tv" site_id="PREMIERE1" lang="sq" xmltv_id="">Premiere 1</channel>
+  <channel site="ipko.tv" site_id="PREMIERE2" lang="sq" xmltv_id="">Premiere 2</channel>
+  <channel site="ipko.tv" site_id="PREMIERE3" lang="sq" xmltv_id="">Premiere 3</channel>
+  <channel site="ipko.tv" site_id="PREMIERE4" lang="sq" xmltv_id="">Premiere 4</channel>
+  <channel site="ipko.tv" site_id="PREMIUMCHANNEL" lang="sq" xmltv_id="">Premium Channel</channel>
+  <channel site="ipko.tv" site_id="PRIMETV" lang="sq" xmltv_id="">Prime TV</channel>
+  <channel site="ipko.tv" site_id="PRINCEKIDS" lang="sq" xmltv_id="">Prince Kids</channel>
+  <channel site="ipko.tv" site_id="PRO1" lang="sq" xmltv_id="">PRO1</channel>
+  <channel site="ipko.tv" site_id="REALITYKINGSTV" lang="sq" xmltv_id="">Reality Kings TV</channel>
+  <channel site="ipko.tv" site_id="REPORTTV" lang="sq" xmltv_id="">Report TV</channel>
+  <channel site="ipko.tv" site_id="RTI" lang="sq" xmltv_id="">RTI</channel>
+  <channel site="ipko.tv" site_id="RTK1" lang="sq" xmltv_id="">RTK 1</channel>
+  <channel site="ipko.tv" site_id="RTK2" lang="sq" xmltv_id="">RTK 2</channel>
+  <channel site="ipko.tv" site_id="RTK3" lang="sq" xmltv_id="">RTK 3</channel>
+  <channel site="ipko.tv" site_id="RTK4" lang="sq" xmltv_id="">RTK 4</channel>
+  <channel site="ipko.tv" site_id="RTSH1" lang="sq" xmltv_id="">RTSH 1</channel>
+  <channel site="ipko.tv" site_id="RTSH3" lang="sq" xmltv_id="">RTSH 3</channel>
+  <channel site="ipko.tv" site_id="RTSH24" lang="sq" xmltv_id="">RTSH 24</channel>
+  <channel site="ipko.tv" site_id="RTSHMUZIKE" lang="sq" xmltv_id="">RTSH Muzike</channel>
+  <channel site="ipko.tv" site_id="RTSHSHQIP" lang="sq" xmltv_id="">RTSH Shqip</channel>
+  <channel site="ipko.tv" site_id="RTV21" lang="sq" xmltv_id="">RTV 21</channel>
+  <channel site="ipko.tv" site_id="RTV21MK" lang="sq" xmltv_id="">RTV 21 MK</channel>
+  <channel site="ipko.tv" site_id="RTV21NEWSBIZZ" lang="sq" xmltv_id="">RTV 21 News Bizz</channel>
+  <channel site="ipko.tv" site_id="RTVMIR" lang="sq" xmltv_id="">RTV Mir</channel>
+  <channel site="ipko.tv" site_id="RTVORA" lang="sq" xmltv_id="">RTV Ora</channel>
+  <channel site="ipko.tv" site_id="SCANTV" lang="sq" xmltv_id="">Scan TV</channel>
+  <channel site="ipko.tv" site_id="SHOWMAXX" lang="sq" xmltv_id="">Show Maxx</channel>
+  <channel site="ipko.tv" site_id="SHOWTURK" lang="sq" xmltv_id="">Show Turk</channel>
+  <channel site="ipko.tv" site_id="SKY360" lang="sq" xmltv_id="">Sky 360</channel>
+  <channel site="ipko.tv" site_id="SMILE" lang="sq" xmltv_id="">Smile</channel>
+  <channel site="ipko.tv" site_id="SOFIA" lang="sq" xmltv_id="">Sofia</channel>
+  <channel site="ipko.tv" site_id="SPORT1" lang="sq" xmltv_id="">Sport 1</channel>
+  <channel site="ipko.tv" site_id="SPORT2" lang="sq" xmltv_id="">Sport 2</channel>
+  <channel site="ipko.tv" site_id="SPORT3" lang="sq" xmltv_id="">Sport 3</channel>
+  <channel site="ipko.tv" site_id="SPORT4" lang="sq" xmltv_id="">Sport 4</channel>
+  <channel site="ipko.tv" site_id="SPORT5" lang="sq" xmltv_id="">Sport 5</channel>
+  <channel site="ipko.tv" site_id="SPORT6" lang="sq" xmltv_id="">Sport 6</channel>
+  <channel site="ipko.tv" site_id="STAR" lang="sq" xmltv_id="">Star</channel>
+  <channel site="ipko.tv" site_id="STARLIFE" lang="sq" xmltv_id="">Star Life</channel>
+  <channel site="ipko.tv" site_id="STARMOVIES" lang="sq" xmltv_id="">Star Movies</channel>
+  <channel site="ipko.tv" site_id="STARPLUSTV" lang="sq" xmltv_id="">Star Plus TV</channel>
+  <channel site="ipko.tv" site_id="STINET" lang="sq" xmltv_id="">Stinet</channel>
+  <channel site="ipko.tv" site_id="SUITE" lang="sq" xmltv_id="">Suite</channel>
+  <channel site="ipko.tv" site_id="SUPERSPORT1" lang="sq" xmltv_id="">SuperSport 1</channel>
+  <channel site="ipko.tv" site_id="SUPERSPORT2" lang="sq" xmltv_id="">SuperSport 2</channel>
+  <channel site="ipko.tv" site_id="SUPERSPORT3" lang="sq" xmltv_id="">SuperSport 3</channel>
+  <channel site="ipko.tv" site_id="SUPERSPORT4" lang="sq" xmltv_id="">SuperSport 4</channel>
+  <channel site="ipko.tv" site_id="SUPERSPORT5" lang="sq" xmltv_id="">SuperSport 5</channel>
+  <channel site="ipko.tv" site_id="SUPERSPORT6" lang="sq" xmltv_id="">SuperSport 6</channel>
+  <channel site="ipko.tv" site_id="SUPERSPORT7" lang="sq" xmltv_id="">SuperSport 7</channel>
+  <channel site="ipko.tv" site_id="SYRITV" lang="sq" xmltv_id="">Syri TV</channel>
+  <channel site="ipko.tv" site_id="T7" lang="sq" xmltv_id="">T7</channel>
+  <channel site="ipko.tv" site_id="TAOTAO" lang="sq" xmltv_id="">Tao Tao</channel>
+  <channel site="ipko.tv" site_id="TERRAHD" lang="sq" xmltv_id="">Terra HD</channel>
+  <channel site="ipko.tv" site_id="TEVE1" lang="sq" xmltv_id="">TeVe 1</channel>
+  <channel site="ipko.tv" site_id="TGRTBELGESEL" lang="sq" xmltv_id="">TGRT Belgesel</channel>
+  <channel site="ipko.tv" site_id="TGRTEU" lang="sq" xmltv_id="">TGRT EU</channel>
+  <channel site="ipko.tv" site_id="TGRTHABER" lang="sq" xmltv_id="">TGRT Haber</channel>
+  <channel site="ipko.tv" site_id="THD" lang="sq" xmltv_id="">T HD</channel>
+  <channel site="ipko.tv" site_id="TIPTV" lang="sq" xmltv_id="">TIP TV</channel>
+  <channel site="ipko.tv" site_id="TOPCHANNEL" lang="sq" xmltv_id="">TOP Channel</channel>
+  <channel site="ipko.tv" site_id="TOPNEWS" lang="sq" xmltv_id="">TOP News</channel>
+  <channel site="ipko.tv" site_id="TRAVELINGO" lang="sq" xmltv_id="">Travelingo</channel>
+  <channel site="ipko.tv" site_id="TRINGACTIONHD" lang="sq" xmltv_id="">Tring Action HD</channel>
+  <channel site="ipko.tv" site_id="TRINGCLASSICS" lang="sq" xmltv_id="">Tring Classics</channel>
+  <channel site="ipko.tv" site_id="TRINGCOLLECTION" lang="sq" xmltv_id="">Tring Collection</channel>
+  <channel site="ipko.tv" site_id="TRINGCOMEDY" lang="sq" xmltv_id="">Tring Comedy</channel>
+  <channel site="ipko.tv" site_id="TRINGFAMILY" lang="sq" xmltv_id="">Tring Family</channel>
+  <channel site="ipko.tv" site_id="TRINGFANTASY" lang="sq" xmltv_id="">Tring Fantasy</channel>
+  <channel site="ipko.tv" site_id="TRINGHISTORY" lang="sq" xmltv_id="">Tring History</channel>
+  <channel site="ipko.tv" site_id="TRINGKIDS" lang="sq" xmltv_id="">Tring Kids</channel>
+  <channel site="ipko.tv" site_id="TRINGLIFE" lang="sq" xmltv_id="">Tring Life</channel>
+  <channel site="ipko.tv" site_id="TRINGORIGINALS" lang="sq" xmltv_id="">Tring Originals</channel>
+  <channel site="ipko.tv" site_id="TRINGPLANET" lang="sq" xmltv_id="">Tring Planet</channel>
+  <channel site="ipko.tv" site_id="TRINGSERIES" lang="sq" xmltv_id="">Tring Series</channel>
+  <channel site="ipko.tv" site_id="TRINGSHQIP" lang="sq" xmltv_id="">Tring Shqip</channel>
+  <channel site="ipko.tv" site_id="TRINGSPORT1" lang="sq" xmltv_id="">TRING SPORT 1</channel>
+  <channel site="ipko.tv" site_id="TRINGSPORT2" lang="sq" xmltv_id="">TRING SPORT 2</channel>
+  <channel site="ipko.tv" site_id="TRINGSPORT3" lang="sq" xmltv_id="">TRING SPORT 3</channel>
+  <channel site="ipko.tv" site_id="TRINGSPORT4" lang="sq" xmltv_id="">TRING SPORT 4</channel>
+  <channel site="ipko.tv" site_id="TRINGSPORT5" lang="sq" xmltv_id="">TRING SPORT 5</channel>
+  <channel site="ipko.tv" site_id="TRINGSPORT6" lang="sq" xmltv_id="">TRING SPORT 6</channel>
+  <channel site="ipko.tv" site_id="TRINGSPORT7" lang="sq" xmltv_id="">TRING SPORT 7</channel>
+  <channel site="ipko.tv" site_id="TRINGSPORTNEWS" lang="sq" xmltv_id="">TRING SPORT NEWS</channel>
+  <channel site="ipko.tv" site_id="TRINGSUPERHD" lang="sq" xmltv_id="">Tring Super HD</channel>
+  <channel site="ipko.tv" site_id="TRINGTRING" lang="sq" xmltv_id="">Tring Tring</channel>
+  <channel site="ipko.tv" site_id="TRINGWORLD" lang="sq" xmltv_id="">Tring World</channel>
+  <channel site="ipko.tv" site_id="TRT1" lang="sq" xmltv_id="">TRT 1</channel>
+  <channel site="ipko.tv" site_id="TRTBELGESEL" lang="sq" xmltv_id="">TRT Belgesel</channel>
+  <channel site="ipko.tv" site_id="TRTCOCUK" lang="sq" xmltv_id="">TRT Cocuk</channel>
+  <channel site="ipko.tv" site_id="TRTHABER" lang="sq" xmltv_id="">TRT Haber</channel>
+  <channel site="ipko.tv" site_id="TRTMUZIK" lang="sq" xmltv_id="">TRT MUZIK</channel>
+  <channel site="ipko.tv" site_id="TRTSPOR" lang="sq" xmltv_id="">TRT Spor</channel>
+  <channel site="ipko.tv" site_id="TRTTURK" lang="sq" xmltv_id="">TRT Turk</channel>
+  <channel site="ipko.tv" site_id="TRTWORLD" lang="sq" xmltv_id="">TRT World</channel>
+  <channel site="ipko.tv" site_id="TURKISHSTORIES" lang="sq" xmltv_id="">Turkish Stories</channel>
+  <channel site="ipko.tv" site_id="TV4" lang="sq" xmltv_id="">TV 4</channel>
+  <channel site="ipko.tv" site_id="TV5MONDE" lang="sq" xmltv_id="">TV 5 Monde</channel>
+  <channel site="ipko.tv" site_id="TV8INT" lang="sq" xmltv_id="">TV8-Int</channel>
+  <channel site="ipko.tv" site_id="TVARTA" lang="sq" xmltv_id="">TV Arta</channel>
+  <channel site="ipko.tv" site_id="TVBESA" lang="sq" xmltv_id="">TV Besa</channel>
+  <channel site="ipko.tv" site_id="TVDUKAGJINI" lang="sq" xmltv_id="">TV Dukagjini</channel>
+  <channel site="ipko.tv" site_id="TVFESTINA" lang="sq" xmltv_id="">TV Festina</channel>
+  <channel site="ipko.tv" site_id="TVLIRIA" lang="sq" xmltv_id="">TV Liria</channel>
+  <channel site="ipko.tv" site_id="TVLLAPI" lang="sq" xmltv_id="">TV Llapi</channel>
+  <channel site="ipko.tv" site_id="TVMITROVICA" lang="sq" xmltv_id="">TV Mitrovica</channel>
+  <channel site="ipko.tv" site_id="TVMOST" lang="sq" xmltv_id="">TV Most</channel>
+  <channel site="ipko.tv" site_id="TVOPINIONI" lang="sq" xmltv_id="">TV Opinioni</channel>
+  <channel site="ipko.tv" site_id="TVPRIZREN" lang="sq" xmltv_id="">TV Prizren</channel>
+  <channel site="ipko.tv" site_id="TVPULS" lang="sq" xmltv_id="">TV Puls</channel>
+  <channel site="ipko.tv" site_id="TVSLON" lang="sq" xmltv_id="">TV Slon</channel>
+  <channel site="ipko.tv" site_id="TVSYRIVISION" lang="sq" xmltv_id="">TV Syri Vision</channel>
+  <channel site="ipko.tv" site_id="TVTEMA" lang="sq" xmltv_id="">TV Tema</channel>
+  <channel site="ipko.tv" site_id="TVVALI" lang="sq" xmltv_id="">TV Vali</channel>
+  <channel site="ipko.tv" site_id="ULKETV" lang="sq" xmltv_id="">Ulke TV</channel>
+  <channel site="ipko.tv" site_id="VIZIONHD" lang="sq" xmltv_id="">Vizion + HD</channel>
+  <channel site="ipko.tv" site_id="X1" lang="sq" xmltv_id="">X1</channel>
+  <channel site="ipko.tv" site_id="ZERITV" lang="sq" xmltv_id="">Zeri TV</channel>
+  <channel site="ipko.tv" site_id="ZICOTV" lang="sq" xmltv_id="">Zico TV</channel>
+  <channel site="ipko.tv" site_id="ZJARRTV" lang="sq" xmltv_id="">Zjarr TV</channel>
+</channels>

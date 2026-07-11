@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="mncvision.id" site_id="1" lang="id" xmltv_id="">Vision Prime HD</channel>
   <channel site="mncvision.id" site_id="90" lang="id" xmltv_id="">Hanacaraka TV</channel>
+  <channel site="mncvision.id" site_id="406" lang="id" xmltv_id="">Studio Universal HD</channel>
+  <channel site="mncvision.id" site_id="417" lang="id" xmltv_id="">beIN Sports 1 HD</channel>
+  <channel site="mncvision.id" site_id="418" lang="id" xmltv_id="">beIN Sports 2 HD</channel>
+  <channel site="mncvision.id" site_id="419" lang="id" xmltv_id="">beIN Sports 3 HD</channel>
+  <channel site="mncvision.id" site_id="420" lang="id" xmltv_id="">Soccer Channel HD</channel>
+  <channel site="mncvision.id" site_id="421" lang="id" xmltv_id="">Sportstars HD</channel>
+  <channel site="mncvision.id" site_id="422" lang="id" xmltv_id="">Sportstars 2 HD</channel>
+  <channel site="mncvision.id" site_id="423" lang="id" xmltv_id="">sportstars 3 HD</channel>
+  <channel site="mncvision.id" site_id="424" lang="id" xmltv_id="">Sportstars 4 HD</channel>
+  <channel site="mncvision.id" site_id="427" lang="id" xmltv_id="">SPOTV HD</channel>
+  <channel site="mncvision.id" site_id="428" lang="id" xmltv_id="">SPOTV 2 HD</channel>
+  <channel site="mncvision.id" site_id="430" lang="id" xmltv_id="">RCTI HD</channel>
+  <channel site="mncvision.id" site_id="431" lang="id" xmltv_id="">GTV HD</channel>
+  <channel site="mncvision.id" site_id="432" lang="id" xmltv_id="">MNCTV HD</channel>
+  <channel site="mncvision.id" site_id="433" lang="id" xmltv_id="">iNews HD</channel>
+  <channel site="mncvision.id" site_id="434" lang="id" xmltv_id="">Sindo News TV HD</channel>
+  <channel site="mncvision.id" site_id="436" lang="id" xmltv_id="">IDX HD</channel>
+  <channel site="mncvision.id" site_id="437" lang="id" xmltv_id="">SCTV HD</channel>
+  <channel site="mncvision.id" site_id="438" lang="id" xmltv_id="">Indosiar HD</channel>
+  <channel site="mncvision.id" site_id="444" lang="id" xmltv_id="">Music TV HD</channel>
+  <channel site="mncvision.id" site_id="447" lang="id" xmltv_id="">AXN HD</channel>
+  <channel site="mncvision.id" site_id="459" lang="id" xmltv_id="">Food Travel HD</channel>
+  <channel site="mncvision.id" site_id="462" lang="id" xmltv_id="">Global Trekker HD</channel>
+  <channel site="mncvision.id" site_id="471" lang="id" xmltv_id="">Kids TV HD</channel>
+  <channel site="mncvision.id" site_id="473" lang="id" xmltv_id="">Dreamworks HD</channel>
   <channel site="mncvision.id" site_id="350" lang="id" xmltv_id="ABCAustralia.au@SD">ABC Australia</channel>
   <channel site="mncvision.id" site_id="331" lang="id" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
   <channel site="mncvision.id" site_id="93" lang="id" xmltv_id="AlQuranAlKareemTV.sa@SD">Al Quran Al Kareem</channel>

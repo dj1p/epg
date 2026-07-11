@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="distro.tv" site_id="95226" lang="en" xmltv_id="">CCTV-4</channel>
+  <channel site="distro.tv" site_id="95227" lang="en" xmltv_id="">CGTN</channel>
+  <channel site="distro.tv" site_id="95228" lang="en" xmltv_id="">CGTN Documentary</channel>
+  <channel site="distro.tv" site_id="95229" lang="en" xmltv_id="">CGTN Español</channel>
+  <channel site="distro.tv" site_id="143731" lang="en" xmltv_id="">CGTN Global Biz</channel>
+  <channel site="distro.tv" site_id="143732" lang="en" xmltv_id="">China Travel</channel>
+  <channel site="distro.tv" site_id="143733" lang="en" xmltv_id="">Discovering China</channel>
+  <channel site="distro.tv" site_id="144300" lang="en" xmltv_id="">Daystar TV</channel>
+  <channel site="distro.tv" site_id="144301" lang="en" xmltv_id="">Daystar Español</channel>
+</channels>
