@@ -97,7 +97,6 @@ if (fs.existsSync(masterPath)) {
 
 // Norway
 buckets.no.push(
-  ...readChannels(path.join(FORK, 'sites/allente.no/allente.no_no.channels.xml')),
   ...readChannels(path.join(CSRC, 'rikstv.no.channels.xml'), { defaultLang: 'no', isWebGrab: true })
 )
 
