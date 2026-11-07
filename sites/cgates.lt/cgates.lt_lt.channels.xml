@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="cgates.lt" site_id="2tv" lang="lt" xmltv_id="">2TV</channel>
+  <channel site="cgates.lt" site_id="animal-planet-hd" lang="lt" xmltv_id="">Animal Planet</channel>
+  <channel site="cgates.lt" site_id="balticum-auksinis" lang="lt" xmltv_id="">Balticum Auksinis</channel>
+  <channel site="cgates.lt" site_id="balticum-platinum-hd" lang="lt" xmltv_id="">Balticum Platinum</channel>
+  <channel site="cgates.lt" site_id="balticum-tv" lang="lt" xmltv_id="">Balticum TV</channel>
+  <channel site="cgates.lt" site_id="blue-hustler" lang="lt" xmltv_id="">Blue Hustler</channel>
+  <channel site="cgates.lt" site_id="btv-hd" lang="lt" xmltv_id="">BTV</channel>
+  <channel site="cgates.lt" site_id="delfi-tv-hd" lang="lt" xmltv_id="">Delfi TV</channel>
+  <channel site="cgates.lt" site_id="deutsche-welle" lang="lt" xmltv_id="">Deutsche Welle</channel>
+  <channel site="cgates.lt" site_id="discovery-channel-hd" lang="lt" xmltv_id="">Discovery Channel</channel>
+  <channel site="cgates.lt" site_id="docubox-hd" lang="lt" xmltv_id="">DocuBox</channel>
+  <channel site="cgates.lt" site_id="duo-5" lang="lt" xmltv_id="">Duo 5</channel>
+  <channel site="cgates.lt" site_id="duo-7" lang="lt" xmltv_id="">Kanal 7 Baltic</channel>
+  <channel site="cgates.lt" site_id="eurosport-1-hd" lang="lt" xmltv_id="">Eurosport 1</channel>
+  <channel site="cgates.lt" site_id="eurosport-2-hd" lang="lt" xmltv_id="">Eurosport 2</channel>
+  <channel site="cgates.lt" site_id="food-network" lang="lt" xmltv_id="">Food Network</channel>
+  <channel site="cgates.lt" site_id="freedom-tv" lang="lt" xmltv_id="">Freedom TV</channel>
+  <channel site="cgates.lt" site_id="geru-naujienu-televizija" lang="lt" xmltv_id="">JPTV</channel>
+  <channel site="cgates.lt" site_id="hgtv-hd" lang="lt" xmltv_id="">HGTV</channel>
+  <channel site="cgates.lt" site_id="id-xtra-hd" lang="lt" xmltv_id="">Investigation Discovery</channel>
+  <channel site="cgates.lt" site_id="info-tv-hd" lang="lt" xmltv_id="">Info TV</channel>
+  <channel site="cgates.lt" site_id="kidzone-tv" lang="lt" xmltv_id="">Kidzone Max</channel>
+  <channel site="cgates.lt" site_id="kino-2" lang="lt" xmltv_id="">Kino 2</channel>
+  <channel site="cgates.lt" site_id="kino-7" lang="lt" xmltv_id="">Kino 7</channel>
+  <channel site="cgates.lt" site_id="lietuvos-ryto-tv-hd" lang="lt" xmltv_id="">Lietuvos ryto TV</channel>
+  <channel site="cgates.lt" site_id="lnk-hd" lang="lt" xmltv_id="">LNK</channel>
+  <channel site="cgates.lt" site_id="lrt-klasika" lang="lt" xmltv_id="">LRT Klasika</channel>
+  <channel site="cgates.lt" site_id="lrt-kultura-hd" lang="lt" xmltv_id="">LRT Plius</channel>
+  <channel site="cgates.lt" site_id="lrt-opus" lang="lt" xmltv_id="">LRT Opus</channel>
+  <channel site="cgates.lt" site_id="lrt-radijas" lang="lt" xmltv_id="">LRT Radijas</channel>
+  <channel site="cgates.lt" site_id="lrt-televizija-hd" lang="lt" xmltv_id="">LRT Televizija</channel>
+  <channel site="cgates.lt" site_id="marijampoles-tv" lang="lt" xmltv_id="">Marijampolės TV</channel>
+  <channel site="cgates.lt" site_id="nastojashcheje-vremya" lang="lt" xmltv_id="">Nastojashcheje Vremya</channel>
+  <channel site="cgates.lt" site_id="national-geographic-hd" lang="lt" xmltv_id="">National Geographic</channel>
+  <channel site="cgates.lt" site_id="rtv-international" lang="lt" xmltv_id="">RTV International</channel>
+  <channel site="cgates.lt" site_id="siauliu-televizija" lang="lt" xmltv_id="">Etaplius TV</channel>
+  <channel site="cgates.lt" site_id="sony-channel-hd" lang="lt" xmltv_id="">Duo 3</channel>
+  <channel site="cgates.lt" site_id="sport-1-hd" lang="lt" xmltv_id="">Sport 1</channel>
+  <channel site="cgates.lt" site_id="super-plius-hd" lang="lt" xmltv_id="">Super+</channel>
+  <channel site="cgates.lt" site_id="tlc" lang="lt" xmltv_id="">TLC</channel>
+  <channel site="cgates.lt" site_id="travel-channel-hd" lang="lt" xmltv_id="">Travel Channel</channel>
+  <channel site="cgates.lt" site_id="tv1-hd" lang="lt" xmltv_id="">TV1</channel>
+  <channel site="cgates.lt" site_id="tv3-hd" lang="lt" xmltv_id="">TV3</channel>
+  <channel site="cgates.lt" site_id="tv3-plus-hd" lang="lt" xmltv_id="">TV3 Plus</channel>
+  <channel site="cgates.lt" site_id="tv3-sport-open-hd" lang="lt" xmltv_id="">Go3 Sport Open</channel>
+  <channel site="cgates.lt" site_id="tv6-hd" lang="lt" xmltv_id="">TV6</channel>
+  <channel site="cgates.lt" site_id="tv8-hd" lang="lt" xmltv_id="">TV8</channel>
+  <channel site="cgates.lt" site_id="viasat-history-hd" lang="lt" xmltv_id="">Viasat History</channel>
+  <channel site="cgates.lt" site_id="viasat-kino-comedy" lang="lt" xmltv_id="">Viasat Kino Comedy</channel>
+  <channel site="cgates.lt" site_id="ziniu-radijas" lang="lt" xmltv_id="">Žinių radijas</channel>
+</channels>

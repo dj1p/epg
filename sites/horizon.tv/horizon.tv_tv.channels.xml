@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="horizon.tv" site_id="10001" lang="sk" xmltv_id="">Jednotka HD</channel>
+  <channel site="horizon.tv" site_id="10002" lang="sk" xmltv_id="">Dvojka HD</channel>
+  <channel site="horizon.tv" site_id="10003" lang="sk" xmltv_id="">Markiza HD</channel>
+  <channel site="horizon.tv" site_id="10004" lang="sk" xmltv_id="">Doma HD</channel>
+  <channel site="horizon.tv" site_id="10005" lang="sk" xmltv_id="">JOJ HD</channel>
+  <channel site="horizon.tv" site_id="10006" lang="sk" xmltv_id="">JOJ Plus HD</channel>
+  <channel site="horizon.tv" site_id="10007" lang="sk" xmltv_id="">JOJ Cinema HD</channel>
+  <channel site="horizon.tv" site_id="10008" lang="sk" xmltv_id="">Dajto HD</channel>
+  <channel site="horizon.tv" site_id="10009" lang="sk" xmltv_id="">JOJ KRIMI HD</channel>
+  <channel site="horizon.tv" site_id="10011" lang="sk" xmltv_id="">Jojko HD</channel>
+  <channel site="horizon.tv" site_id="10012" lang="sk" xmltv_id="">TA3 HD</channel>
+  <channel site="horizon.tv" site_id="10013" lang="sk" xmltv_id="">TV LUX HD</channel>
+  <channel site="horizon.tv" site_id="10014" lang="sk" xmltv_id="">Folklorika HD</channel>
+  <channel site="horizon.tv" site_id="10015" lang="sk" xmltv_id="">TV8</channel>
+  <channel site="horizon.tv" site_id="10016" lang="sk" xmltv_id="">SENZI HD</channel>
+  <channel site="horizon.tv" site_id="10018" lang="sk" xmltv_id="">CT 1 HD</channel>
+  <channel site="horizon.tv" site_id="10019" lang="sk" xmltv_id="">CT 2 HD</channel>
+  <channel site="horizon.tv" site_id="10020" lang="sk" xmltv_id="">CT :D/ CT art HD</channel>
+  <channel site="horizon.tv" site_id="10021" lang="sk" xmltv_id="">CT 24 HD</channel>
+  <channel site="horizon.tv" site_id="10022" lang="sk" xmltv_id="">Nova International HD</channel>
+  <channel site="horizon.tv" site_id="10023" lang="sk" xmltv_id="">Prima SK HD</channel>
+  <channel site="horizon.tv" site_id="10024" lang="sk" xmltv_id="">AMC HD</channel>
+  <channel site="horizon.tv" site_id="10025" lang="sk" xmltv_id="">Seznam.cz TV HD</channel>
+  <channel site="horizon.tv" site_id="10026" lang="sk" xmltv_id="">CNN Prima NEWS HD</channel>
+  <channel site="horizon.tv" site_id="10027" lang="sk" xmltv_id="">Prima KRIMI SK HD</channel>
+  <channel site="horizon.tv" site_id="10029" lang="sk" xmltv_id="">Prima COOL SK HD</channel>
+  <channel site="horizon.tv" site_id="10030" lang="sk" xmltv_id="">Prima LOVE SK HD</channel>
+  <channel site="horizon.tv" site_id="10032" lang="sk" xmltv_id="">Barrandov TV HD</channel>
+  <channel site="horizon.tv" site_id="10033" lang="sk" xmltv_id="">Barrandov KRIMI HD</channel>
+  <channel site="horizon.tv" site_id="10034" lang="sk" xmltv_id="">Barrandov KINO HD</channel>
+  <channel site="horizon.tv" site_id="10035" lang="sk" xmltv_id="">TV Noe HD</channel>
+  <channel site="horizon.tv" site_id="10036" lang="sk" xmltv_id="">Mnam TV HD</channel>
+  <channel site="horizon.tv" site_id="10037" lang="sk" xmltv_id="">Mnau TV HD</channel>
+  <channel site="horizon.tv" site_id="10038" lang="sk" xmltv_id="">TV Raj HD</channel>
+  <channel site="horizon.tv" site_id="10039" lang="sk" xmltv_id="">TV Ruzinov HD</channel>
+  <channel site="horizon.tv" site_id="10043" lang="sk" xmltv_id="">Film+ HD</channel>
+  <channel site="horizon.tv" site_id="10044" lang="sk" xmltv_id="">FILMBOX+ one HD</channel>
+  <channel site="horizon.tv" site_id="10045" lang="sk" xmltv_id="">FILMBOX+ comedy</channel>
+  <channel site="horizon.tv" site_id="10046" lang="sk" xmltv_id="">CS Film / CS Horror HD</channel>
+  <channel site="horizon.tv" site_id="10047" lang="sk" xmltv_id="">CS History HD</channel>
+  <channel site="horizon.tv" site_id="10048" lang="sk" xmltv_id="">CS Mystery HD</channel>
+  <channel site="horizon.tv" site_id="10049" lang="sk" xmltv_id="">Animal Planet HD</channel>
+  <channel site="horizon.tv" site_id="10051" lang="sk" xmltv_id="">Crime &amp; Investigation</channel>
+  <channel site="horizon.tv" site_id="10052" lang="sk" xmltv_id="">Discovery HD</channel>
+  <channel site="horizon.tv" site_id="10055" lang="sk" xmltv_id="">ID HD</channel>
+  <channel site="horizon.tv" site_id="10056" lang="sk" xmltv_id="">Food Network HD</channel>
+  <channel site="horizon.tv" site_id="10057" lang="sk" xmltv_id="">History HD</channel>
+  <channel site="horizon.tv" site_id="10058" lang="sk" xmltv_id="">National Geographic HD</channel>
+  <channel site="horizon.tv" site_id="10059" lang="sk" xmltv_id="">Nat Geo Wild HD</channel>
+  <channel site="horizon.tv" site_id="10060" lang="sk" xmltv_id="">Spektrum HD</channel>
+  <channel site="horizon.tv" site_id="10061" lang="sk" xmltv_id="">Spektrum Home HD</channel>
+  <channel site="horizon.tv" site_id="10062" lang="sk" xmltv_id="">TLC HD</channel>
+  <channel site="horizon.tv" site_id="10063" lang="sk" xmltv_id="">TV Paprika HD</channel>
+  <channel site="horizon.tv" site_id="10064" lang="sk" xmltv_id="">Travel Channel HD</channel>
+  <channel site="horizon.tv" site_id="10065" lang="sk" xmltv_id="">Viasat Explore HD</channel>
+  <channel site="horizon.tv" site_id="10066" lang="sk" xmltv_id="">Viasat History HD</channel>
+  <channel site="horizon.tv" site_id="10067" lang="sk" xmltv_id="">Viasat Nature HD</channel>
+  <channel site="horizon.tv" site_id="10068" lang="sk" xmltv_id="">Fishing &amp; Hunting</channel>
+  <channel site="horizon.tv" site_id="10069" lang="sk" xmltv_id="">Hobby TV HD</channel>
+  <channel site="horizon.tv" site_id="10070" lang="sk" xmltv_id="">Park TV HD</channel>
+  <channel site="horizon.tv" site_id="10072" lang="sk" xmltv_id="">Eurosport 1 HD</channel>
+  <channel site="horizon.tv" site_id="10073" lang="sk" xmltv_id="">Eurosport 2 HD</channel>
+  <channel site="horizon.tv" site_id="10074" lang="sk" xmltv_id="">Sport 1 HD</channel>
+  <channel site="horizon.tv" site_id="10075" lang="sk" xmltv_id="">Sport 2 HD</channel>
+  <channel site="horizon.tv" site_id="10077" lang="sk" xmltv_id="">Auto Motor Sport HD</channel>
+  <channel site="horizon.tv" site_id="10078" lang="sk" xmltv_id="">Golf Channel HD</channel>
+  <channel site="horizon.tv" site_id="10079" lang="sk" xmltv_id="">Extreme Sports HD</channel>
+  <channel site="horizon.tv" site_id="10080" lang="sk" xmltv_id="">Nova Sport 1 HD</channel>
+  <channel site="horizon.tv" site_id="10081" lang="sk" xmltv_id="">Nova Sport 2 HD</channel>
+  <channel site="horizon.tv" site_id="10084" lang="sk" xmltv_id="">ducktv HD</channel>
+  <channel site="horizon.tv" site_id="10085" lang="sk" xmltv_id="">Minimax</channel>
+  <channel site="horizon.tv" site_id="10086" lang="sk" xmltv_id="">Disney Channel HD</channel>
+  <channel site="horizon.tv" site_id="10087" lang="sk" xmltv_id="">JimJam</channel>
+  <channel site="horizon.tv" site_id="10088" lang="sk" xmltv_id="">Nickelodeon</channel>
+  <channel site="horizon.tv" site_id="10089" lang="sk" xmltv_id="">Nick Jr.</channel>
+  <channel site="horizon.tv" site_id="10090" lang="sk" xmltv_id="">Nicktoons</channel>
+  <channel site="horizon.tv" site_id="10091" lang="sk" xmltv_id="">Cartoon Network HD</channel>
+  <channel site="horizon.tv" site_id="10092" lang="sk" xmltv_id="">MTV</channel>
+  <channel site="horizon.tv" site_id="10098" lang="sk" xmltv_id="">Retro Music TV</channel>
+  <channel site="horizon.tv" site_id="10101" lang="sk" xmltv_id="">Slager Original HD</channel>
+  <channel site="horizon.tv" site_id="10102" lang="sk" xmltv_id="">Slager Muzika HD</channel>
+  <channel site="horizon.tv" site_id="10103" lang="sk" xmltv_id="">Premium HD</channel>
+  <channel site="horizon.tv" site_id="10104" lang="sk" xmltv_id="">Mezzo</channel>
+  <channel site="horizon.tv" site_id="10106" lang="sk" xmltv_id="">RELAX</channel>
+  <channel site="horizon.tv" site_id="10108" lang="sk" xmltv_id="">CNN</channel>
+  <channel site="horizon.tv" site_id="10109" lang="sk" xmltv_id="">Deutsche Welle HD</channel>
+  <channel site="horizon.tv" site_id="10110" lang="sk" xmltv_id="">CNBC Europe HD</channel>
+  <channel site="horizon.tv" site_id="10111" lang="sk" xmltv_id="">Euronews HD</channel>
+  <channel site="horizon.tv" site_id="10112" lang="sk" xmltv_id="">France 24</channel>
+  <channel site="horizon.tv" site_id="10115" lang="sk" xmltv_id="">ORF 1 HD</channel>
+  <channel site="horizon.tv" site_id="10116" lang="sk" xmltv_id="">ORF 2 HD</channel>
+  <channel site="horizon.tv" site_id="10117" lang="sk" xmltv_id="">ORF III HD</channel>
+  <channel site="horizon.tv" site_id="10118" lang="sk" xmltv_id="">TVP Polonia HD</channel>
+  <channel site="horizon.tv" site_id="10119" lang="sk" xmltv_id="">TRT World HD</channel>
+  <channel site="horizon.tv" site_id="10120" lang="sk" xmltv_id="">HBO HD</channel>
+  <channel site="horizon.tv" site_id="10121" lang="sk" xmltv_id="">HBO 2 HD</channel>
+  <channel site="horizon.tv" site_id="10122" lang="sk" xmltv_id="">HBO 3 HD</channel>
+  <channel site="horizon.tv" site_id="10123" lang="sk" xmltv_id="">Cinemax HD</channel>
+  <channel site="horizon.tv" site_id="10124" lang="sk" xmltv_id="">Cinemax 2 HD</channel>
+  <channel site="horizon.tv" site_id="10125" lang="sk" xmltv_id="">FILMBOX+ emotion HD</channel>
+  <channel site="horizon.tv" site_id="10126" lang="sk" xmltv_id="">FILMBOX+ hits HD</channel>
+  <channel site="horizon.tv" site_id="10127" lang="sk" xmltv_id="">FILMBOX+ love&amp;crime HD</channel>
+  <channel site="horizon.tv" site_id="10128" lang="sk" xmltv_id="">FightBox HD</channel>
+  <channel site="horizon.tv" site_id="10129" lang="sk" xmltv_id="">DocuBox HD</channel>
+  <channel site="horizon.tv" site_id="10130" lang="sk" xmltv_id="">Fast&amp;FunBox HD</channel>
+  <channel site="horizon.tv" site_id="10131" lang="sk" xmltv_id="">EroXXX HD</channel>
+  <channel site="horizon.tv" site_id="10134" lang="sk" xmltv_id="">Leo TV HD</channel>
+  <channel site="horizon.tv" site_id="10136" lang="sk" xmltv_id="">EXTASY HD</channel>
+  <channel site="horizon.tv" site_id="10137" lang="sk" xmltv_id="">Hir TV</channel>
+  <channel site="horizon.tv" site_id="10138" lang="sk" xmltv_id="">M1 HD</channel>
+  <channel site="horizon.tv" site_id="10139" lang="sk" xmltv_id="">M2 HD</channel>
+  <channel site="horizon.tv" site_id="10140" lang="sk" xmltv_id="">M5 HD</channel>
+  <channel site="horizon.tv" site_id="10141" lang="sk" xmltv_id="">M4 Sport HD</channel>
+  <channel site="horizon.tv" site_id="10142" lang="sk" xmltv_id="">RTL HU</channel>
+  <channel site="horizon.tv" site_id="10143" lang="sk" xmltv_id="">RTL KETTO</channel>
+  <channel site="horizon.tv" site_id="10145" lang="sk" xmltv_id="">Duna World HD</channel>
+  <channel site="horizon.tv" site_id="10146" lang="sk" xmltv_id="">Duna HD</channel>
+  <channel site="horizon.tv" site_id="10147" lang="sk" xmltv_id="">Magyar ATV</channel>
+  <channel site="horizon.tv" site_id="10148" lang="sk" xmltv_id="">TV2 HD</channel>
+  <channel site="horizon.tv" site_id="10149" lang="sk" xmltv_id="">Cool TV</channel>
+  <channel site="horizon.tv" site_id="10150" lang="sk" xmltv_id="">TV4</channel>
+  <channel site="horizon.tv" site_id="10151" lang="sk" xmltv_id="">TV Paprika HU</channel>
+  <channel site="horizon.tv" site_id="10152" lang="sk" xmltv_id="">Euronews HU</channel>
+  <channel site="horizon.tv" site_id="10153" lang="sk" xmltv_id="">RTL Gold</channel>
+  <channel site="horizon.tv" site_id="10154" lang="sk" xmltv_id="">RTL HAROM</channel>
+  <channel site="horizon.tv" site_id="10155" lang="sk" xmltv_id="">Sorozat+</channel>
+  <channel site="horizon.tv" site_id="10156" lang="sk" xmltv_id="">Muzsika TV</channel>
+  <channel site="horizon.tv" site_id="10157" lang="sk" xmltv_id="">Slager TV HD</channel>
+  <channel site="horizon.tv" site_id="10158" lang="sk" xmltv_id="">Story 4</channel>
+  <channel site="horizon.tv" site_id="10159" lang="sk" xmltv_id="">Super TV2 HD</channel>
+  <channel site="horizon.tv" site_id="10160" lang="sk" xmltv_id="">TV2 Sef</channel>
+  <channel site="horizon.tv" site_id="10161" lang="sk" xmltv_id="">FEM3</channel>
+  <channel site="horizon.tv" site_id="10162" lang="sk" xmltv_id="">FILM+ HU</channel>
+  <channel site="horizon.tv" site_id="10163" lang="sk" xmltv_id="">Kabel eins</channel>
+  <channel site="horizon.tv" site_id="10164" lang="sk" xmltv_id="">WELT</channel>
+  <channel site="horizon.tv" site_id="10165" lang="sk" xmltv_id="">ProSieben</channel>
+  <channel site="horizon.tv" site_id="10166" lang="sk" xmltv_id="">RTL DE</channel>
+  <channel site="horizon.tv" site_id="10167" lang="sk" xmltv_id="">RTL Zwei</channel>
+  <channel site="horizon.tv" site_id="10168" lang="sk" xmltv_id="">Super RTL</channel>
+  <channel site="horizon.tv" site_id="10169" lang="sk" xmltv_id="">SAT 1</channel>
+  <channel site="horizon.tv" site_id="10170" lang="sk" xmltv_id="">VOX</channel>
+  <channel site="horizon.tv" site_id="10171" lang="sk" xmltv_id="">Nitro</channel>
+  <channel site="horizon.tv" site_id="10184" lang="sk" xmltv_id="">TV Romana HD</channel>
+  <channel site="horizon.tv" site_id="10185" lang="sk" xmltv_id="">JOJ Sport HD</channel>
+  <channel site="horizon.tv" site_id="10186" lang="sk" xmltv_id="">STVR Sport HD</channel>
+  <channel site="horizon.tv" site_id="10187" lang="sk" xmltv_id="">Babes TV HD</channel>
+  <channel site="horizon.tv" site_id="10188" lang="sk" xmltv_id="">Brazzers TV HD</channel>
+  <channel site="horizon.tv" site_id="10189" lang="sk" xmltv_id="">Reality Kings HD</channel>
+  <channel site="horizon.tv" site_id="10190" lang="sk" xmltv_id="">FREEDOM HD</channel>
+  <channel site="horizon.tv" site_id="10192" lang="sk" xmltv_id="">Espreso TV HD</channel>
+  <channel site="horizon.tv" site_id="10193" lang="sk" xmltv_id="">STVR 24 HD</channel>
+  <channel site="horizon.tv" site_id="10194" lang="sk" xmltv_id="">Current Time HD</channel>
+  <channel site="horizon.tv" site_id="10195" lang="sk" xmltv_id="">Turbo TV HD</channel>
+  <channel site="horizon.tv" site_id="10196" lang="sk" xmltv_id="">Markiza Krimi HD</channel>
+  <channel site="horizon.tv" site_id="10197" lang="sk" xmltv_id="">Sky News</channel>
+  <channel site="horizon.tv" site_id="10198" lang="sk" xmltv_id="">JOJ 24 HD</channel>
+  <channel site="horizon.tv" site_id="10199" lang="sk" xmltv_id="">Skvele TV HD</channel>
+  <channel site="horizon.tv" site_id="10200" lang="sk" xmltv_id="">360 TuneBox HD</channel>
+  <channel site="horizon.tv" site_id="10201" lang="sk" xmltv_id="">FILMBOX+ festival HD</channel>
+  <channel site="horizon.tv" site_id="10202" lang="sk" xmltv_id="">FashionBox HD</channel>
+  <channel site="horizon.tv" site_id="10203" lang="sk" xmltv_id="">E! Entertainment HD</channel>
+  <channel site="horizon.tv" site_id="10204" lang="sk" xmltv_id="">TV Doktor HD</channel>
+  <channel site="horizon.tv" site_id="10206" lang="sk" xmltv_id="">JOJ Svet HD</channel>
+  <channel site="horizon.tv" site_id="10207" lang="sk" xmltv_id="">Markiza Klasik HD</channel>
+  <channel site="horizon.tv" site_id="10208" lang="sk" xmltv_id="">JOJ Sport 2 HD</channel>
+  <channel site="horizon.tv" site_id="10209" lang="sk" xmltv_id="">A11 HD</channel>
+  <channel site="horizon.tv" site_id="10210" lang="sk" xmltv_id="">ABC TV HD</channel>
+  <channel site="horizon.tv" site_id="10211" lang="sk" xmltv_id="">Leo TV GOLD HD</channel>
+  <channel site="horizon.tv" site_id="10212" lang="sk" xmltv_id="">Passion XXX HD</channel>
+  <channel site="horizon.tv" site_id="10214" lang="sk" xmltv_id="">DIM HD</channel>
+  <channel site="horizon.tv" site_id="12101" lang="sk" xmltv_id="">TV Bratislava</channel>
+  <channel site="horizon.tv" site_id="12102" lang="sk" xmltv_id="">Televizia Slovensko</channel>
+  <channel site="horizon.tv" site_id="12103" lang="sk" xmltv_id="">Mestska TV Trnava</channel>
+  <channel site="horizon.tv" site_id="12104" lang="sk" xmltv_id="">TV Nitricka</channel>
+  <channel site="horizon.tv" site_id="12105" lang="sk" xmltv_id="">TV7 Presov</channel>
+  <channel site="horizon.tv" site_id="12106" lang="sk" xmltv_id="">TV Reduta (SNV)</channel>
+  <channel site="horizon.tv" site_id="12107" lang="sk" xmltv_id="">RTV Krea</channel>
+  <channel site="horizon.tv" site_id="12108" lang="sk" xmltv_id="">DSTV</channel>
+  <channel site="horizon.tv" site_id="12109" lang="sk" xmltv_id="">Bardejovska TV (BTV)</channel>
+  <channel site="horizon.tv" site_id="12110" lang="sk" xmltv_id="">TV Poprad</channel>
+  <channel site="horizon.tv" site_id="12111" lang="sk" xmltv_id="">TV Hronka</channel>
+  <channel site="horizon.tv" site_id="12112" lang="sk" xmltv_id="">Levicka TV LTS</channel>
+  <channel site="horizon.tv" site_id="12113" lang="sk" xmltv_id="">TV Stara Tura</channel>
+  <channel site="horizon.tv" site_id="12114" lang="sk" xmltv_id="">Banovska TV</channel>
+  <channel site="horizon.tv" site_id="12115" lang="sk" xmltv_id="">Hlohovska TV</channel>
+  <channel site="horizon.tv" site_id="12116" lang="sk" xmltv_id="">TV Mistral</channel>
+  <channel site="horizon.tv" site_id="12117" lang="sk" xmltv_id="">ATV Ziar nad Hronom</channel>
+  <channel site="horizon.tv" site_id="12118" lang="sk" xmltv_id="">Roznavska TV (RVTV)</channel>
+  <channel site="horizon.tv" site_id="12119" lang="sk" xmltv_id="">TV Dolny Kubin</channel>
+  <channel site="horizon.tv" site_id="12121" lang="sk" xmltv_id="">TOP TV Topolniky</channel>
+  <channel site="horizon.tv" site_id="12122" lang="sk" xmltv_id="">Lubovnianska TV</channel>
+  <channel site="horizon.tv" site_id="12123" lang="sk" xmltv_id="">TV Nove Zamky</channel>
+  <channel site="horizon.tv" site_id="12124" lang="sk" xmltv_id="">TV Moldava</channel>
+  <channel site="horizon.tv" site_id="12125" lang="sk" xmltv_id="">Godzone TV</channel>
+  <channel site="horizon.tv" site_id="12126" lang="sk" xmltv_id="">Mestska TV Ruzomberok</channel>
+  <channel site="horizon.tv" site_id="12127" lang="sk" xmltv_id="">TV Zemplin</channel>
+  <channel site="horizon.tv" site_id="12128" lang="sk" xmltv_id="">TV Vychod</channel>
+  <channel site="horizon.tv" site_id="12129" lang="sk" xmltv_id="">TV Sirava</channel>
+  <channel site="horizon.tv" site_id="12130" lang="sk" xmltv_id="">TV Michalovce</channel>
+  <channel site="horizon.tv" site_id="12131" lang="sk" xmltv_id="">TV Vega</channel>
+</channels>

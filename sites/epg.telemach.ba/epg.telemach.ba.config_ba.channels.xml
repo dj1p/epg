@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="epg.telemach.ba" site_id="30" lang="" xmltv_id="">OBN (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="31" lang="" xmltv_id="">RTRS</channel>
+  <channel site="epg.telemach.ba" site_id="32" lang="" xmltv_id="">Alternativna TV (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="33" lang="" xmltv_id="">Federalna TV</channel>
+  <channel site="epg.telemach.ba" site_id="119" lang="" xmltv_id="">TLC HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="197" lang="" xmltv_id="">Alfa HD (Sarajevo) (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="198" lang="" xmltv_id="">BHT 1</channel>
+  <channel site="epg.telemach.ba" site_id="199" lang="" xmltv_id="">N1 HD (BH)/(BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="200" lang="" xmltv_id="">Televizija Hema</channel>
+  <channel site="epg.telemach.ba" site_id="201" lang="" xmltv_id="">BN Music HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="283" lang="" xmltv_id="">CineStar 1 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="299" lang="" xmltv_id="">Hayat 2</channel>
+  <channel site="epg.telemach.ba" site_id="409" lang="" xmltv_id="">Balkanika (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="449" lang="" xmltv_id="">BN HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="461" lang="" xmltv_id="">TRT Avaz (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="462" lang="" xmltv_id="">CineStar Action HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="465" lang="" xmltv_id="">BHT 1 HD</channel>
+  <channel site="epg.telemach.ba" site_id="466" lang="" xmltv_id="">Hayat HD</channel>
+  <channel site="epg.telemach.ba" site_id="468" lang="" xmltv_id="">TV Vogošća HD</channel>
+  <channel site="epg.telemach.ba" site_id="469" lang="" xmltv_id="">RTVHB HD</channel>
+  <channel site="epg.telemach.ba" site_id="470" lang="" xmltv_id="">RTV IS (OSM)</channel>
+  <channel site="epg.telemach.ba" site_id="471" lang="" xmltv_id="">Face HD</channel>
+  <channel site="epg.telemach.ba" site_id="475" lang="" xmltv_id="">Kanal 6</channel>
+  <channel site="epg.telemach.ba" site_id="476" lang="" xmltv_id="">NTV IC Kakanj</channel>
+  <channel site="epg.telemach.ba" site_id="479" lang="" xmltv_id="">RTV Visoko</channel>
+  <channel site="epg.telemach.ba" site_id="480" lang="" xmltv_id="">TV Bugojno HD</channel>
+  <channel site="epg.telemach.ba" site_id="481" lang="" xmltv_id="">RTV TK</channel>
+  <channel site="epg.telemach.ba" site_id="482" lang="" xmltv_id="">RTV HIT</channel>
+  <channel site="epg.telemach.ba" site_id="483" lang="" xmltv_id="">City TV HD</channel>
+  <channel site="epg.telemach.ba" site_id="484" lang="" xmltv_id="">RTV Jablanica HD</channel>
+  <channel site="epg.telemach.ba" site_id="485" lang="" xmltv_id="">TV Lukavac</channel>
+  <channel site="epg.telemach.ba" site_id="486" lang="" xmltv_id="">MTV Igman HD</channel>
+  <channel site="epg.telemach.ba" site_id="489" lang="" xmltv_id="">Laudato TV</channel>
+  <channel site="epg.telemach.ba" site_id="493" lang="" xmltv_id="">Cinema TV</channel>
+  <channel site="epg.telemach.ba" site_id="494" lang="" xmltv_id="">Hayatovci</channel>
+  <channel site="epg.telemach.ba" site_id="495" lang="" xmltv_id="">Hayat Folk Box</channel>
+  <channel site="epg.telemach.ba" site_id="496" lang="" xmltv_id="">Hayat Music Box</channel>
+  <channel site="epg.telemach.ba" site_id="504" lang="" xmltv_id="">Telemach Info kanal (BH)</channel>
+  <channel site="epg.telemach.ba" site_id="541" lang="" xmltv_id="">Posavina TV</channel>
+  <channel site="epg.telemach.ba" site_id="552" lang="" xmltv_id="">TV5 HD (BH)</channel>
+  <channel site="epg.telemach.ba" site_id="574" lang="" xmltv_id="">Nickelodeon (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="587" lang="" xmltv_id="">Pink BH</channel>
+  <channel site="epg.telemach.ba" site_id="640" lang="" xmltv_id="">Nova BH HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="651" lang="" xmltv_id="">RTV Sana</channel>
+  <channel site="epg.telemach.ba" site_id="653" lang="" xmltv_id="">RTRS Plus</channel>
+  <channel site="epg.telemach.ba" site_id="654" lang="" xmltv_id="">Sevdah TV</channel>
+  <channel site="epg.telemach.ba" site_id="655" lang="" xmltv_id="">TV Sarajevo HD (BH)</channel>
+  <channel site="epg.telemach.ba" site_id="656" lang="" xmltv_id="">RTV Zenica HD</channel>
+  <channel site="epg.telemach.ba" site_id="675" lang="" xmltv_id="">Izvorna TV</channel>
+  <channel site="epg.telemach.ba" site_id="745" lang="" xmltv_id="">RTL 2 HR HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="746" lang="" xmltv_id="">Nova HR HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="747" lang="" xmltv_id="">RTL HR HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="748" lang="" xmltv_id="">O Kanal HD</channel>
+  <channel site="epg.telemach.ba" site_id="777" lang="" xmltv_id="">Cinestar 2 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="850" lang="" xmltv_id="">RTV7</channel>
+  <channel site="epg.telemach.ba" site_id="853" lang="" xmltv_id="">RTV BIR HD</channel>
+  <channel site="epg.telemach.ba" site_id="870" lang="" xmltv_id="">Nicktoons (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="921" lang="" xmltv_id="">Pikaboo HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="922" lang="" xmltv_id="">Nick Jr. (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="990" lang="" xmltv_id="">Pickbox 1 (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1096" lang="" xmltv_id="">O Kanal Plus HD</channel>
+  <channel site="epg.telemach.ba" site_id="1097" lang="" xmltv_id="">O Kanal Music HD</channel>
+  <channel site="epg.telemach.ba" site_id="1102" lang="" xmltv_id="">IDJKids HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1104" lang="" xmltv_id="">Grand International HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1105" lang="" xmltv_id="">Cartoon Network (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1120" lang="" xmltv_id="">Da Vinci HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1337" lang="" xmltv_id="">Maria Vision TV</channel>
+  <channel site="epg.telemach.ba" site_id="1338" lang="" xmltv_id="">Shift TV HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1341" lang="" xmltv_id="">Al Jazeera Arabic (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1477" lang="" xmltv_id="">Pink Premium HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1478" lang="" xmltv_id="">ID HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1491" lang="" xmltv_id="">Cartoonito (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1492" lang="" xmltv_id="">Disney Junior (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1493" lang="" xmltv_id="">RTL Living HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1494" lang="" xmltv_id="">Nova Television HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1495" lang="" xmltv_id="">RTL Kockica HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1496" lang="" xmltv_id="">IDJTV HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1505" lang="" xmltv_id="">Eurosport 2 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1506" lang="" xmltv_id="">Nickelodeon HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1508" lang="" xmltv_id="">FILMBOX+ hits HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1509" lang="" xmltv_id="">Doku TV HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1510" lang="" xmltv_id="">BabyTV HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1511" lang="" xmltv_id="">Minimax (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1512" lang="" xmltv_id="">HRT 3 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1513" lang="" xmltv_id="">HRT 4 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1514" lang="" xmltv_id="">Kino TV HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1518" lang="" xmltv_id="">CNN (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1519" lang="" xmltv_id="">Current Time (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1520" lang="" xmltv_id="">Grand narodna televizija 2 (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1522" lang="" xmltv_id="">Cinemania HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1523" lang="" xmltv_id="">Bujrum TV (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1524" lang="" xmltv_id="">RTV Novi Pazar (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1526" lang="" xmltv_id="">Tropik TV</channel>
+  <channel site="epg.telemach.ba" site_id="1527" lang="" xmltv_id="">MTV (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1582" lang="" xmltv_id="">Prva World (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1583" lang="" xmltv_id="">Prva Kick (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1584" lang="" xmltv_id="">Prva Plus (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1585" lang="" xmltv_id="">Prva (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1587" lang="" xmltv_id="">Yachting TV (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1591" lang="" xmltv_id="">RTL DE (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1592" lang="" xmltv_id="">RTL 2 DE (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1593" lang="" xmltv_id="">DM Sat (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1594" lang="" xmltv_id="">Grand Nostalgija (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1595" lang="" xmltv_id="">Narodna TV (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1596" lang="" xmltv_id="">CMC HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1597" lang="" xmltv_id="">Pink Music (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1598" lang="" xmltv_id="">Pink Plus (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1599" lang="" xmltv_id="">VOX (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1600" lang="" xmltv_id="">Pro7 (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1601" lang="" xmltv_id="">Pink Crime &amp; Mystery (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1604" lang="" xmltv_id="">Nova Series (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1606" lang="" xmltv_id="">Rai Uno (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1607" lang="" xmltv_id="">N1 HD (HR)/(BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1608" lang="" xmltv_id="">N1 HD (RS)/(BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1614" lang="" xmltv_id="">FTV HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1615" lang="" xmltv_id="">B92 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1616" lang="" xmltv_id="">Pink Zabava (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1617" lang="" xmltv_id="">K::CN 1 (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1618" lang="" xmltv_id="">BBC News (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1619" lang="" xmltv_id="">Pink Extra (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1620" lang="" xmltv_id="">Pink Film (BiH)</channel>
+  <channel site="epg.telemach.ba" site_id="1621" lang="" xmltv_id="">Pink Reality (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1623" lang="" xmltv_id="">Zadruga Live 1 (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1624" lang="" xmltv_id="">Zadruga Live 2 (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1625" lang="" xmltv_id="">Zadruga Live 3 (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1626" lang="" xmltv_id="">Zadruga Live 4 (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1628" lang="" xmltv_id="">Hustler HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1629" lang="" xmltv_id="">Hustler (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1630" lang="" xmltv_id="">Dusk! (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1631" lang="" xmltv_id="">Private TV (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1633" lang="" xmltv_id="">Trace Urban HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1634" lang="" xmltv_id="">K::CN Music 2 (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1635" lang="" xmltv_id="">Motorvision+ HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1636" lang="" xmltv_id="">Bravo Music (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1638" lang="" xmltv_id="">Pink Classic (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1640" lang="" xmltv_id="">BBC Earth HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1641" lang="" xmltv_id="">Deutsche Welle (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1642" lang="" xmltv_id="">TVMNE (RTCG Sat (BIH))</channel>
+  <channel site="epg.telemach.ba" site_id="1644" lang="" xmltv_id="">K::CN Svet+ 3 (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1645" lang="" xmltv_id="">SHORTSTV HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1646" lang="" xmltv_id="">France 24 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1647" lang="" xmltv_id="">TV5MONDE (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1648" lang="" xmltv_id="">Bloomberg (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1649" lang="" xmltv_id="">TV Vijesti HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1650" lang="" xmltv_id="">iConcerts HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1657" lang="" xmltv_id="">Reality Kings HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1658" lang="" xmltv_id="">Brazzers TV Europe (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1659" lang="" xmltv_id="">Blue Hustler (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1660" lang="" xmltv_id="">RedLight (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1664" lang="" xmltv_id="">FREEДOM (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1665" lang="" xmltv_id="">Euronews HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1666" lang="" xmltv_id="">Trace Sport Stars HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1667" lang="" xmltv_id="">Jim Jam (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1668" lang="" xmltv_id="">1+1 International (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1673" lang="" xmltv_id="">Sky News (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1683" lang="" xmltv_id="">Pink Folk (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1684" lang="" xmltv_id="">Pink Folk 2 (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1685" lang="" xmltv_id="">Pink n roll (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1686" lang="" xmltv_id="">Pink World (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1687" lang="" xmltv_id="">Pink Show (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1688" lang="" xmltv_id="">Pink Music 2 (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1689" lang="" xmltv_id="">Pink Hits (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1690" lang="" xmltv_id="">Pink Hits 2 (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1691" lang="" xmltv_id="">Pink Fashion (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1692" lang="" xmltv_id="">Pink Koncert (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1693" lang="" xmltv_id="">City Play (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1694" lang="" xmltv_id="">Pink World Cinema (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1695" lang="" xmltv_id="">Pink Family (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1696" lang="" xmltv_id="">Pink Serije (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1697" lang="" xmltv_id="">Brainz HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1698" lang="" xmltv_id="">Nova S HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1700" lang="" xmltv_id="">SLO 1 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1740" lang="" xmltv_id="">Kitchen TV (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1742" lang="" xmltv_id="">Marquee TV (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1830" lang="" xmltv_id="">Animal Planet HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1831" lang="" xmltv_id="">AMC HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1832" lang="" xmltv_id="">CineStar Premiere 2 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1833" lang="" xmltv_id="">CineStar Premiere 1 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1834" lang="" xmltv_id="">STAR HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1835" lang="" xmltv_id="">STAR Life HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1836" lang="" xmltv_id="">STAR Crime HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1837" lang="" xmltv_id="">STAR Movies HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1838" lang="" xmltv_id="">Pink Western (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1839" lang="" xmltv_id="">Pink Kuvar (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1840" lang="" xmltv_id="">HBO HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1841" lang="" xmltv_id="">HBO 2 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1842" lang="" xmltv_id="">HBO 3 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1844" lang="" xmltv_id="">Viasat Epic Drama HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1845" lang="" xmltv_id="">CineStar Fantasy HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1846" lang="" xmltv_id="">CineStar Comedy &amp; Family HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1847" lang="" xmltv_id="">Cinemax HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1848" lang="" xmltv_id="">Cinemax 2 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1849" lang="" xmltv_id="">SCI FI HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1850" lang="" xmltv_id="">Pink Action (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1852" lang="" xmltv_id="">Eurosport 1 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1853" lang="" xmltv_id="">Disney Channel (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1854" lang="" xmltv_id="">Pink Kids (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1855" lang="" xmltv_id="">National Geographic HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1856" lang="" xmltv_id="">Discovery Channel HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1857" lang="" xmltv_id="">History HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1858" lang="" xmltv_id="">Viasat History HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1859" lang="" xmltv_id="">History 2 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1860" lang="" xmltv_id="">Lov i Ribolov (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1861" lang="" xmltv_id="">Viasat Explore HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1862" lang="" xmltv_id="">Viasat Nature HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1863" lang="" xmltv_id="">Nat Geo Wild HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1864" lang="" xmltv_id="">Crime &amp; Investigation (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1865" lang="" xmltv_id="">Home and Garden TV (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1866" lang="" xmltv_id="">Travel Channel HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1867" lang="" xmltv_id="">E! Entertainment (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1868" lang="" xmltv_id="">Pink Comedy (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1869" lang="" xmltv_id="">Pink Romance (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1870" lang="" xmltv_id="">Pink Movies (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1871" lang="" xmltv_id="">Pink Thriller (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1872" lang="" xmltv_id="">Pink Soap (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1873" lang="" xmltv_id="">Pink Sci-Fi &amp; Fantasy (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1874" lang="" xmltv_id="">Pink Horror (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1875" lang="" xmltv_id="">Pink Style (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1876" lang="" xmltv_id="">Ha ha (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1877" lang="" xmltv_id="">Lol (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1878" lang="" xmltv_id="">Pink Pedia (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1879" lang="" xmltv_id="">Pink super kids (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1880" lang="" xmltv_id="">Diva (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1881" lang="" xmltv_id="">HRT 1 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1882" lang="" xmltv_id="">HRT 2 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1932" lang="" xmltv_id="">Viasat True Crime HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1934" lang="" xmltv_id="">Arena Premium 1 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1935" lang="" xmltv_id="">Arena Premium 2 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1936" lang="" xmltv_id="">Arena Premium 3 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1937" lang="" xmltv_id="">Arena Premium 4 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1938" lang="" xmltv_id="">Arena Premium 5 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1942" lang="" xmltv_id="">24Kitchen HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="1949" lang="" xmltv_id="">Viasat Kino HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2052" lang="" xmltv_id="">Eurosport 4K (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2078" lang="" xmltv_id="">FILMBOX+ love&amp;crime HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2112" lang="" xmltv_id="">Trace Latina HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2113" lang="" xmltv_id="">Trace UK HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2114" lang="" xmltv_id="">Trace Ngoma (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2124" lang="" xmltv_id="">Arena Fight HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2125" lang="" xmltv_id="">Arena Adrenalin HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2126" lang="" xmltv_id="">Arena Esport HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2127" lang="" xmltv_id="">Arena Sport 1x2 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2128" lang="" xmltv_id="">Arena Tenis HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2129" lang="" xmltv_id="">Arena Sport 7 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2130" lang="" xmltv_id="">Arena Sport 6 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2131" lang="" xmltv_id="">Arena Sport 5 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2132" lang="" xmltv_id="">Arena Sport 4 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2133" lang="" xmltv_id="">Arena Sport 3 HD (BiH)</channel>
+  <channel site="epg.telemach.ba" site_id="2134" lang="" xmltv_id="">Arena Sport 2 HD (BIH)</channel>
+  <channel site="epg.telemach.ba" site_id="2135" lang="" xmltv_id="">Arena Sport 1 HD (BIH)</channel>
+</channels>

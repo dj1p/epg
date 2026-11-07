@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="dens.tv" site_id="1" lang="id" xmltv_id="">DensKnowledge</channel>
+  <channel site="dens.tv" site_id="3" lang="id" xmltv_id="">Live Streaming 1</channel>
+  <channel site="dens.tv" site_id="6" lang="id" xmltv_id="">Metro TV</channel>
+  <channel site="dens.tv" site_id="13" lang="id" xmltv_id="">MDTV</channel>
+  <channel site="dens.tv" site_id="16" lang="id" xmltv_id="">CGTN Documentary</channel>
+  <channel site="dens.tv" site_id="17" lang="id" xmltv_id="">TVRI</channel>
+  <channel site="dens.tv" site_id="21" lang="id" xmltv_id="">RodjaTV</channel>
+  <channel site="dens.tv" site_id="22" lang="id" xmltv_id="">RTV</channel>
+  <channel site="dens.tv" site_id="23" lang="id" xmltv_id="">DAAI TV</channel>
+  <channel site="dens.tv" site_id="27" lang="id" xmltv_id="">Al Jazeera Arabic</channel>
+  <channel site="dens.tv" site_id="41" lang="id" xmltv_id="">TRT World</channel>
+  <channel site="dens.tv" site_id="42" lang="id" xmltv_id="">DensLife&amp;Style</channel>
+  <channel site="dens.tv" site_id="56" lang="id" xmltv_id="">Al Jazeera English</channel>
+  <channel site="dens.tv" site_id="61" lang="id" xmltv_id="">CNA</channel>
+  <channel site="dens.tv" site_id="69" lang="id" xmltv_id="">France 24</channel>
+  <channel site="dens.tv" site_id="77" lang="id" xmltv_id="">NHK WORLD-JAPAN</channel>
+  <channel site="dens.tv" site_id="78" lang="id" xmltv_id="">TBN</channel>
+  <channel site="dens.tv" site_id="79" lang="id" xmltv_id="">WION</channel>
+  <channel site="dens.tv" site_id="80" lang="id" xmltv_id="">BTV</channel>
+  <channel site="dens.tv" site_id="81" lang="id" xmltv_id="">DW-TV</channel>
+  <channel site="dens.tv" site_id="82" lang="id" xmltv_id="">Quran TV</channel>
+  <channel site="dens.tv" site_id="85" lang="id" xmltv_id="">CCTV-4</channel>
+  <channel site="dens.tv" site_id="88" lang="id" xmltv_id="">Sunna TV</channel>
+  <channel site="dens.tv" site_id="90" lang="id" xmltv_id="">TV5MONDE ASIE</channel>
+  <channel site="dens.tv" site_id="92" lang="id" xmltv_id="">My Cinema Europe HD</channel>
+  <channel site="dens.tv" site_id="94" lang="id" xmltv_id="">Elshinta TV</channel>
+  <channel site="dens.tv" site_id="98" lang="id" xmltv_id="">Motorvision+</channel>
+  <channel site="dens.tv" site_id="102" lang="id" xmltv_id="">DensShowBiz</channel>
+  <channel site="dens.tv" site_id="104" lang="id" xmltv_id="">FREEDOM</channel>
+  <channel site="dens.tv" site_id="107" lang="id" xmltv_id="">DensPlay</channel>
+  <channel site="dens.tv" site_id="112" lang="id" xmltv_id="">Jak tv</channel>
+  <channel site="dens.tv" site_id="117" lang="id" xmltv_id="">DensFood Channel</channel>
+  <channel site="dens.tv" site_id="118" lang="id" xmltv_id="">TVRI Sport</channel>
+  <channel site="dens.tv" site_id="122" lang="id" xmltv_id="">Magna Channel</channel>
+  <channel site="dens.tv" site_id="127" lang="id" xmltv_id="">Crema TV</channel>
+  <channel site="dens.tv" site_id="128" lang="id" xmltv_id="">Stingray Classica</channel>
+  <channel site="dens.tv" site_id="130" lang="id" xmltv_id="">Dance TV</channel>
+  <channel site="dens.tv" site_id="131" lang="id" xmltv_id="">Berita Satu</channel>
+  <channel site="dens.tv" site_id="132" lang="id" xmltv_id="">DIM TV</channel>
+  <channel site="dens.tv" site_id="137" lang="id" xmltv_id="">Channel Jowo</channel>
+  <channel site="dens.tv" site_id="138" lang="id" xmltv_id="">Nusantara TV (NTV)</channel>
+  <channel site="dens.tv" site_id="143" lang="id" xmltv_id="">Qwest TV</channel>
+  <channel site="dens.tv" site_id="144" lang="id" xmltv_id="">Russia Today (RT)</channel>
+</channels>
