@@ -1,6 +1,6 @@
 # osn.com
 
-https://osn.com/ _[Geo-blocked]_
+https://www.osn.com/en-sa/watch/tv-schedule _[Geo-blocked]_
 
 ### Download the guide
 
