@@ -102,9 +102,7 @@ buckets.no.push(
 
 // UK
 buckets.uk.push(
-  ...readChannels(path.join(FORK, 'sites/sky.com/sky.com.channels.xml')),
-  ...readChannels(path.join(FORK, 'sites/freeview.co.uk/freeview.co.uk.channels.xml')),
-  ...readChannels(path.join(FORK, 'sites/mytelly.co.uk/mytelly.co.uk.channels.xml'))
+  ...readChannels(path.join(CSRC, 'uk-curated.channels.xml'), { defaultLang: 'en' })
 )
 
 // Singapore
@@ -116,10 +114,7 @@ buckets.sg.push(
 
 // International / US
 buckets.us.push(
-  ...readChannels(path.join(CSRC, 'ontvtonight-directv-ny.channels.xml'),
-    { defaultLang: 'en', isWebGrab: true, fixOntvtonight: true }),
-  ...readChannels(path.join(FORK, 'sites/tvtv.us/tvtv.us.channels.xml')),
-  ...readChannels(path.join(FORK, 'sites/xumo.tv/xumo.tv.channels.xml'))
+  ...readChannels(path.join(CSRC, 'us-curated.channels.xml'), { defaultLang: 'en' })
 )
 
 // Thailand — NBTC (official regulator DTT guide) is the primary source: it
