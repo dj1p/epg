@@ -97,7 +97,7 @@ if (fs.existsSync(masterPath)) {
 
 // Norway
 buckets.no.push(
-  ...readChannels(path.join(CSRC, 'rikstv.no.channels.xml'), { defaultLang: 'no', isWebGrab: true })
+  ...readChannels(path.join(CSRC, 'no-curated.channels.xml'), { defaultLang: 'no' })
 )
 
 // UK
