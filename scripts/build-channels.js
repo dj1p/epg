@@ -137,8 +137,7 @@ const gigaChannels = readChannels(
 ).map(ch => ({ ...ch, xmltvId: ch.xmltvId.replace(/@SD$/, '') }))
 
 buckets.th.push(
-  ...nbtcChannels,
-  ...gigaChannels
+  ...readChannels(path.join(CSRC, 'th-curated.channels.xml'), { defaultLang: 'th' })
 )
 
 // 3. Write
