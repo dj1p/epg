@@ -19,7 +19,6 @@
   <channel site="dttguide.nbtc.go.th" site_id="1|34" lang="th" xmltv_id="AmarinTV.th">Amarin TV HD</channel>
   <channel site="dttguide.nbtc.go.th" site_id="1|35" lang="th" xmltv_id="Channel7.th">7HD</channel>
   <channel site="dttguide.nbtc.go.th" site_id="1|36" lang="th" xmltv_id="PPTV.th">PPTV</channel>
-  <channel site="gigatv.3bbtv.co.th" site_id="31" lang="th" xmltv_id="">ONE31 HD</channel>
   <channel site="gigatv.3bbtv.co.th" site_id="101" lang="th" xmltv_id="">3BB Asian</channel>
   <channel site="gigatv.3bbtv.co.th" site_id="103" lang="th" xmltv_id="">HBO</channel>
   <channel site="gigatv.3bbtv.co.th" site_id="104" lang="th" xmltv_id="">HBO Signature</channel>
@@ -63,4 +62,60 @@
   <channel site="gigatv.3bbtv.co.th" site_id="714" lang="th" xmltv_id="DLTV14.th">DLTV 14</channel>
   <channel site="gigatv.3bbtv.co.th" site_id="715" lang="th" xmltv_id="DLTV15.th">DLTV 15</channel>
   <channel site="gigatv.3bbtv.co.th" site_id="716" lang="th" xmltv_id="ETV.th">ETV</channel>
+  <channel site="tv.trueid.net" site_id="aniplus-channel" lang="th" logo="https://cms.dmpcdn.com/livetv/2025/05/29/895eab60-3c92-11f0-b877-437fa63d2c00_webp_original.webp" xmltv_id="">ANIPLUS Channel</channel>
+  <channel site="tv.trueid.net" site_id="arirang-tv" lang="th" logo="https://cms.dmpcdn.com/livetv/2022/09/08/e55200a0-2f27-11ed-a458-efe831982670_webp_original.png" xmltv_id="">Arirang TV</channel>
+  <channel site="tv.trueid.net" site_id="bein-sports-6" lang="th" logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" xmltv_id="">beIN SPORTS 6</channel>
+  <channel site="tv.trueid.net" site_id="bein-sports-7" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" xmltv_id="">beIN SPORTS 7</channel>
+  <channel site="tv.trueid.net" site_id="bein-sports-8" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" xmltv_id="">beIN SPORTS 8</channel>
+  <channel site="tv.trueid.net" site_id="bein-sports-9" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" xmltv_id="">beIN SPORTS 9</channel>
+  <channel site="tv.trueid.net" site_id="bein-sports-10" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp" xmltv_id="">beIN SPORTS 10</channel>
+  <channel site="tv.trueid.net" site_id="bein-sports-hd2" lang="th" logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" xmltv_id="beINSports2.qa@Thailand">beIN SPORTS 2</channel>
+  <channel site="tv.trueid.net" site_id="bein-sports-hd3" lang="th" logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" xmltv_id="">beIN SPORTS 3</channel>
+  <channel site="tv.trueid.net" site_id="bein-sports-no-f1" lang="th" logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" xmltv_id="">beIN SPORTS 1</channel>
+  <channel site="tv.trueid.net" site_id="beinsports-4" lang="th" logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" xmltv_id="">beIN SPORTS 4</channel>
+  <channel site="tv.trueid.net" site_id="beinsports-5" lang="th" logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" xmltv_id="">beIN SPORTS 5</channel>
+  <channel site="tv.trueid.net" site_id="dw-english" lang="th" logo="https://cms.dmpcdn.com/livetv/2022/09/08/e5b667c0-2f27-11ed-9e57-d98920d4c462_webp_original.png" xmltv_id="">DW English</channel>
+  <channel site="tv.trueid.net" site_id="film-asia-hd" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" xmltv_id="TrueFilmAsia.th@SD">True Film Asia</channel>
+  <channel site="tv.trueid.net" site_id="news-newss1" lang="th" logo="https://cms.dmpcdn.com/livetv/2025/01/28/d62afee0-dd32-11ef-953b-ef346c97cada_webp_original.webp" xmltv_id="">NEWS1</channel>
+  <channel site="tv.trueid.net" site_id="nhk-world-premium" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/09/18/fda5a510-758b-11ef-8701-b5698fd69830_webp_original.webp" xmltv_id="">NHK World Premium</channel>
+  <channel site="tv.trueid.net" site_id="rama-channel" lang="th" logo="https://cms.dmpcdn.com/livetv/2019/01/31/a5aeb78c-c4db-474f-a5af-345cb9e2f5b5.png" xmltv_id="">Rama Channel</channel>
+  <channel site="tv.trueid.net" site_id="realitychannel-hd" lang="th" logo="https://cms.dmpcdn.com/livetv/2023/07/18/7d74eda0-2515-11ee-864f-a52221dad038_webp_original.webp" xmltv_id="">True Little Monk Reality</channel>
+  <channel site="tv.trueid.net" site_id="spotv1-hd" lang="th" logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" xmltv_id="">SPOTV 1</channel>
+  <channel site="tv.trueid.net" site_id="spotv2-hd" lang="th" logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" xmltv_id="SPOTV2.kr@SD">SPOTV 2</channel>
+  <channel site="tv.trueid.net" site_id="thai-film" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp" xmltv_id="TrueThaiFilm.th@SD">True Thai Film</channel>
+  <channel site="tv.trueid.net" site_id="tid-cartoon-club-channel" lang="th" logo="https://cms.dmpcdn.com/livetv/2025/06/26/44b90e20-525d-11f0-9c0d-151e7d28e33f_webp_original.webp" xmltv_id="">Cartoon Club Channel</channel>
+  <channel site="tv.trueid.net" site_id="tid-top-news" lang="th" logo="https://cms.dmpcdn.com/livetv/2025/06/19/cab7bcc0-4cc6-11f0-b437-536ba535ba63_webp_original.webp" xmltv_id="">TOP News</channel>
+  <channel site="tv.trueid.net" site_id="tnn-2" lang="th" logo="https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png" xmltv_id="TNN2.th@SD">TNN 2</channel>
+  <channel site="tv.trueid.net" site_id="tptv" lang="th" logo="https://cms.dmpcdn.com/livetv/2023/11/22/2a4de600-8919-11ee-8416-3dc6bea66698_webp_original.webp" xmltv_id="">TPTV</channel>
+  <channel site="tv.trueid.net" site_id="true-asian-more" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" xmltv_id="">True Asian More</channel>
+  <channel site="tv.trueid.net" site_id="true-ball-thai-1" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp" xmltv_id="">True Ball Thai 1</channel>
+  <channel site="tv.trueid.net" site_id="true-ball-thai-2" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp" xmltv_id="">True Ball Thai 2</channel>
+  <channel site="tv.trueid.net" site_id="true-ball-thai-3" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp" xmltv_id="">True Ball Thai 3</channel>
+  <channel site="tv.trueid.net" site_id="true-ball-thai-4" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp" xmltv_id="">True Ball Thai 4</channel>
+  <channel site="tv.trueid.net" site_id="true-ball-thai-6" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp" xmltv_id="">True Ball Thai 6</channel>
+  <channel site="tv.trueid.net" site_id="true-ball-thai-7" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp" xmltv_id="">True Ball Thai 7</channel>
+  <channel site="tv.trueid.net" site_id="true-ball-thai-8" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp" xmltv_id="">True Ball Thai 8</channel>
+  <channel site="tv.trueid.net" site_id="true-ball-thai-9" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp" xmltv_id="">True Ball Thai 9</channel>
+  <channel site="tv.trueid.net" site_id="true-explore-3" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" xmltv_id="TrueExploreSci.th@SD">True Explore Sci</channel>
+  <channel site="tv.trueid.net" site_id="true-explore-wild" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" xmltv_id="">True Explore Wild</channel>
+  <channel site="tv.trueid.net" site_id="true-film-hd" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp" xmltv_id="TrueFilm1.th@SD">True Film 1</channel>
+  <channel site="tv.trueid.net" site_id="true-film-hd-2" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" xmltv_id="TrueFilm2.th@SD">True Film 2</channel>
+  <channel site="tv.trueid.net" site_id="true-movie-hits" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp" xmltv_id="TrueMovieHits.th@SD">True Movie Hits</channel>
+  <channel site="tv.trueid.net" site_id="true-spark" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd2cd90-b44d-11ee-bbdb-077300b4f5a1_webp_original.webp" xmltv_id="">True Spark Play</channel>
+  <channel site="tv.trueid.net" site_id="true-tennis-hd" lang="th" logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png" xmltv_id="">True Tennis</channel>
+  <channel site="tv.trueid.net" site_id="true-x-zyte-hd" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" xmltv_id="TrueXZyte.th@SD">True X-Zyte</channel>
+  <channel site="tv.trueid.net" site_id="trueid-live" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/03/14/0c8fb370-e1d2-11ee-9da1-192fdd9d9955_webp_original.webp" xmltv_id="">TrueID Live</channel>
+  <channel site="tv.trueid.net" site_id="trueid-sports" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp" xmltv_id="">TrueID Sports</channel>
+  <channel site="tv.trueid.net" site_id="trueplookpanya" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/06/04/16813190-2248-11ef-857f-891570708cee_webp_original.webp" xmltv_id="">True Plook Panya</channel>
+  <channel site="tv.trueid.net" site_id="truepremierfootballhd3" lang="th" logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png" xmltv_id="TruePremierFootball3.th@SD">True Premier Football 3</channel>
+  <channel site="tv.trueid.net" site_id="truepremierfootballhd4" lang="th" logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.png" xmltv_id="TruePremierFootball4.th@SD">True Premier Football 4</channel>
+  <channel site="tv.trueid.net" site_id="truepremierfootballhd5" lang="th" logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png" xmltv_id="TruePremierFootball5.th@SD">True Premier Football 5</channel>
+  <channel site="tv.trueid.net" site_id="truesport-5" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" xmltv_id="TrueSports5.th@SD">True Sports 5</channel>
+  <channel site="tv.trueid.net" site_id="truesport-hd" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" xmltv_id="">True Sports 1</channel>
+  <channel site="tv.trueid.net" site_id="truesport-hd-2" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" xmltv_id="TrueSports2.th@SD">True Sports 2</channel>
+  <channel site="tv.trueid.net" site_id="truesport-hd-3" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" xmltv_id="">True Sports 3</channel>
+  <channel site="tv.trueid.net" site_id="truesport-hd-4" lang="th" logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp" xmltv_id="">True Sports 4</channel>
+  <channel site="tv.trueid.net" site_id="tv-nfl-nba" lang="th" logo="https://cms.dmpcdn.com/livetv/2022/12/22/d9313340-81d9-11ed-a7f9-412bbba270e9_webp_original.png" xmltv_id="">NFL &amp; NBA TV</channel>
+  <channel site="tv.trueid.net" site_id="tvs-motogp1" lang="th" logo="https://cms.dmpcdn.com/livetv/2025/04/23/e3ad8510-1fef-11f0-bc2b-5955b429894b_webp_original.webp" xmltv_id="">Moto GP1</channel>
+  <channel site="tv.trueid.net" site_id="ufc" lang="th" logo="https://cms.dmpcdn.com/livetv/2022/11/16/88521af0-6598-11ed-8215-b386a7bd4f58_webp_original.png" xmltv_id="">UFC</channel>
 </channels>

@@ -107,9 +107,7 @@ buckets.uk.push(
 
 // Singapore
 buckets.sg.push(
-  ...readChannels(path.join(FORK, 'sites/starhubtvplus.com/starhubtvplus.com_en.channels.xml')),
-  ...readChannels(path.join(FORK, 'sites/mewatch.sg/mewatch.sg.channels.xml')),
-  ...readChannels(path.join(FORK, 'sites/singtel.com/singtel.com.channels.xml'))
+  ...readChannels(path.join(CSRC, 'sg-curated.channels.xml'), { defaultLang: 'en' })
 )
 
 // International / US
