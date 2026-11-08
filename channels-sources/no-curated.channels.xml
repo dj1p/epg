@@ -68,32 +68,37 @@
   <channel site="rikstv.no" site_id="561" lang="no" xmltv_id="">NRK1 Sørlandet</channel>
   <channel site="rikstv.no" site_id="563" lang="no" xmltv_id="">NRK1 Trøndelag</channel>
   <channel site="rikstv.no" site_id="564" lang="no" xmltv_id="">NRK1 Vestfold og Telemark</channel>
-  <channel site="allente.no" site_id="10003" lang="no" xmltv_id="">NRK Super / NRK3 HD</channel>
-  <channel site="allente.no" site_id="10004" lang="no" xmltv_id="">TV 2 Direkte HD</channel>
-  <channel site="allente.no" site_id="10006" lang="no" xmltv_id="">TV 2 Nyheter HD</channel>
-  <channel site="allente.no" site_id="10011" lang="no" xmltv_id="">REX HD</channel>
-  <channel site="allente.no" site_id="10016" lang="no" xmltv_id="">VGTV HD</channel>
-  <channel site="allente.no" site_id="10017" lang="no" xmltv_id="">TLC Norge HD</channel>
-  <channel site="allente.no" site_id="10018" lang="no" xmltv_id="">Discovery Channel HD (N)</channel>
-  <channel site="allente.no" site_id="10025" lang="no" xmltv_id="">BBC Nordic HD (N)</channel>
-  <channel site="allente.no" site_id="10029" lang="no" xmltv_id="">TV 2 Sport Premium HD</channel>
-  <channel site="allente.no" site_id="10030" lang="no" xmltv_id="">TV 2 Sport Premium 2 HD</channel>
+  <channel site="rikstv.no" site_id="566" lang="no" xmltv_id="">NRK1 Østlandet</channel>
+  <channel site="rikstv.no" site_id="642" lang="no" xmltv_id="">V sport golf</channel>
+  <channel site="rikstv.no" site_id="650" lang="no" xmltv_id="">Naturkanal1</channel>
+  <channel site="rikstv.no" site_id="651" lang="no" xmltv_id="">V Film Action</channel>
+  <channel site="rikstv.no" site_id="652" lang="no" xmltv_id="">V Film Premiere</channel>
+  <channel site="rikstv.no" site_id="653" lang="no" xmltv_id="">V Series</channel>
+  <channel site="allente.no" site_id="10003" lang="no" xmltv_id="">NRK Super / NRK3</channel>
+  <channel site="allente.no" site_id="10004" lang="no" xmltv_id="">TV 2 Direkte</channel>
+  <channel site="allente.no" site_id="10006" lang="no" xmltv_id="">TV 2 Nyheter</channel>
+  <channel site="allente.no" site_id="10011" lang="no" xmltv_id="">REX</channel>
+  <channel site="allente.no" site_id="10016" lang="no" xmltv_id="">VGTV</channel>
+  <channel site="allente.no" site_id="10017" lang="no" xmltv_id="">TLC Norge</channel>
+  <channel site="allente.no" site_id="10018" lang="no" xmltv_id="">Discovery Channel</channel>
+  <channel site="allente.no" site_id="10025" lang="no" xmltv_id="">BBC Nordic</channel>
+  <channel site="allente.no" site_id="10029" lang="no" xmltv_id="">TV 2 Sport Premium</channel>
+  <channel site="allente.no" site_id="10030" lang="no" xmltv_id="">TV 2 Sport Premium 2</channel>
   <channel site="allente.no" site_id="10055" lang="no" xmltv_id="">NRK1 Midtnytt</channel>
-  <channel site="allente.no" site_id="10100" lang="no" xmltv_id="">Heim HD</channel>
-  <channel site="allente.no" site_id="10101" lang="no" xmltv_id="">Naturkanal1</channel>
-  <channel site="allente.no" site_id="10106" lang="no" xmltv_id="">V sport Premier League HD</channel>
-  <channel site="allente.no" site_id="10107" lang="no" xmltv_id="">V sport Premier League 1 HD</channel>
-  <channel site="allente.no" site_id="10108" lang="no" xmltv_id="">V sport Premier League 2 HD</channel>
-  <channel site="allente.no" site_id="10109" lang="no" xmltv_id="">V sport Premier League 3 HD</channel>
-  <channel site="allente.no" site_id="10110" lang="no" xmltv_id="">V sport Premier League 4 HD</channel>
-  <channel site="allente.no" site_id="10112" lang="no" xmltv_id="">Hits HD</channel>
-  <channel site="allente.no" site_id="10113" lang="no" xmltv_id="">Stars HD</channel>
-  <channel site="allente.no" site_id="20010" lang="no" xmltv_id="">SVT Barn HD</channel>
-  <channel site="allente.no" site_id="20013" lang="no" xmltv_id="">Kunskapskanalen HD</channel>
+  <channel site="allente.no" site_id="10100" lang="no" xmltv_id="">Heim</channel>
+  <channel site="allente.no" site_id="10106" lang="no" xmltv_id="">V sport Premier League</channel>
+  <channel site="allente.no" site_id="10107" lang="no" xmltv_id="">V sport Premier League 1</channel>
+  <channel site="allente.no" site_id="10108" lang="no" xmltv_id="">V sport Premier League 2</channel>
+  <channel site="allente.no" site_id="10109" lang="no" xmltv_id="">V sport Premier League 3</channel>
+  <channel site="allente.no" site_id="10110" lang="no" xmltv_id="">V sport Premier League 4</channel>
+  <channel site="allente.no" site_id="10112" lang="no" xmltv_id="">Hits</channel>
+  <channel site="allente.no" site_id="10113" lang="no" xmltv_id="">Stars</channel>
+  <channel site="allente.no" site_id="20010" lang="no" xmltv_id="">SVT Barn</channel>
+  <channel site="allente.no" site_id="20013" lang="no" xmltv_id="">Kunskapskanalen</channel>
   <channel site="allente.no" site_id="20059" lang="no" xmltv_id="">Horse &amp; Country</channel>
   <channel site="allente.no" site_id="20084" lang="no" xmltv_id="">Vision Sverige</channel>
-  <channel site="allente.no" site_id="40023" lang="no" xmltv_id="">Yle TV1 HD</channel>
-  <channel site="allente.no" site_id="40024" lang="no" xmltv_id="">Yle TV2 HD</channel>
+  <channel site="allente.no" site_id="40023" lang="no" xmltv_id="">Yle TV1</channel>
+  <channel site="allente.no" site_id="40024" lang="no" xmltv_id="">Yle TV2</channel>
   <channel site="allente.no" site_id="50007" lang="no" xmltv_id="">HISTORY</channel>
   <channel site="allente.no" site_id="50008" lang="no" xmltv_id="">HISTORY 2</channel>
   <channel site="allente.no" site_id="50010" lang="no" xmltv_id="">ID Investigation Discovery</channel>
@@ -103,36 +108,33 @@
   <channel site="allente.no" site_id="50025" lang="no" xmltv_id="">BBC News</channel>
   <channel site="allente.no" site_id="50027" lang="no" xmltv_id="">Bloomberg</channel>
   <channel site="allente.no" site_id="50028" lang="no" xmltv_id="">Al Jazeera English</channel>
-  <channel site="allente.no" site_id="50034" lang="no" xmltv_id="">CGTN HD</channel>
-  <channel site="allente.no" site_id="50036" lang="no" xmltv_id="">CGTN Documentary HD</channel>
-  <channel site="allente.no" site_id="50037" lang="no" xmltv_id="">Kanal 10 Norge HD</channel>
-  <channel site="allente.no" site_id="50052" lang="no" xmltv_id="">V classics HD</channel>
-  <channel site="allente.no" site_id="50057" lang="no" xmltv_id="">V crime HD</channel>
-  <channel site="allente.no" site_id="50077" lang="no" xmltv_id="">V sport golf HD</channel>
+  <channel site="allente.no" site_id="50034" lang="no" xmltv_id="">CGTN</channel>
+  <channel site="allente.no" site_id="50036" lang="no" xmltv_id="">CGTN Documentary</channel>
+  <channel site="allente.no" site_id="50037" lang="no" xmltv_id="">Kanal 10 Norge</channel>
+  <channel site="allente.no" site_id="50045" lang="no" xmltv_id="">TV3+</channel>
+  <channel site="allente.no" site_id="50052" lang="no" xmltv_id="">V classics</channel>
+  <channel site="allente.no" site_id="50057" lang="no" xmltv_id="">V crime</channel>
   <channel site="allente.no" site_id="50083" lang="no" xmltv_id="">DW English</channel>
   <channel site="allente.no" site_id="50085" lang="no" xmltv_id="">Nicktoons</channel>
-  <channel site="allente.no" site_id="50105" lang="no" xmltv_id="">V sport ultra HD</channel>
-  <channel site="allente.no" site_id="50107" lang="no" xmltv_id="">V film action HD</channel>
-  <channel site="allente.no" site_id="50108" lang="no" xmltv_id="">V film hits HD</channel>
-  <channel site="allente.no" site_id="50110" lang="no" xmltv_id="">V series HD</channel>
-  <channel site="allente.no" site_id="50113" lang="no" xmltv_id="">Viasat Explore HD</channel>
-  <channel site="allente.no" site_id="50114" lang="no" xmltv_id="">Viasat History HD</channel>
-  <channel site="allente.no" site_id="50115" lang="no" xmltv_id="">Viasat Nature HD</channel>
-  <channel site="allente.no" site_id="50117" lang="no" xmltv_id="">V film premiere HD</channel>
+  <channel site="allente.no" site_id="50105" lang="no" xmltv_id="">V sport ultra</channel>
+  <channel site="allente.no" site_id="50108" lang="no" xmltv_id="">V film hits</channel>
+  <channel site="allente.no" site_id="50113" lang="no" xmltv_id="">Viasat Explore</channel>
+  <channel site="allente.no" site_id="50114" lang="no" xmltv_id="">Viasat History</channel>
+  <channel site="allente.no" site_id="50115" lang="no" xmltv_id="">Viasat Nature</channel>
   <channel site="allente.no" site_id="50125" lang="no" xmltv_id="">V sport live 1</channel>
   <channel site="allente.no" site_id="50126" lang="no" xmltv_id="">V sport live 2</channel>
   <channel site="allente.no" site_id="50127" lang="no" xmltv_id="">V sport live 3</channel>
   <channel site="allente.no" site_id="50128" lang="no" xmltv_id="">V sport live 4</channel>
   <channel site="allente.no" site_id="50129" lang="no" xmltv_id="">V sport live 5</channel>
-  <channel site="allente.no" site_id="50132" lang="no" xmltv_id="">SkyShowtime 2 HD</channel>
-  <channel site="allente.no" site_id="50133" lang="no" xmltv_id="">SkyShowtime 1 HD</channel>
+  <channel site="allente.no" site_id="50132" lang="no" xmltv_id="">SkyShowtime 2</channel>
+  <channel site="allente.no" site_id="50133" lang="no" xmltv_id="">SkyShowtime 1</channel>
   <channel site="allente.no" site_id="50136" lang="no" xmltv_id="">Bedehuskanalen</channel>
   <channel site="allente.no" site_id="50137" lang="no" xmltv_id="">SBN International</channel>
   <channel site="allente.no" site_id="50138" lang="no" xmltv_id="">FREEDOM</channel>
   <channel site="allente.no" site_id="50139" lang="no" xmltv_id="">V film family</channel>
   <channel site="allente.no" site_id="50140" lang="no" xmltv_id="">Kanal 10 Sverige</channel>
   <channel site="allente.no" site_id="50141" lang="no" xmltv_id="">Moonbug</channel>
-  <channel site="allente.no" site_id="50142" lang="no" xmltv_id="">Love Nature HD</channel>
+  <channel site="allente.no" site_id="50142" lang="no" xmltv_id="">Love Nature</channel>
   <channel site="allente.no" site_id="50143" lang="no" xmltv_id="">Mezzo Live</channel>
   <channel site="allente.no" site_id="50144" lang="no" xmltv_id="">Dizi</channel>
   <channel site="allente.no" site_id="50145" lang="no" xmltv_id="">Sverigekanalen</channel>
