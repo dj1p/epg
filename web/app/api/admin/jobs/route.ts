@@ -10,6 +10,6 @@ export async function GET(request: NextRequest) {
   // Reconcile each job against this process's live tracking so a job left
   // `running` by a previous process instance (deploy/crash/restart) is
   // reported (and persisted) as `interrupted` instead of forever "running".
-  const jobs = listJobs().map(reconcileJobMeta)
+  const jobs = listJobs(200).map(reconcileJobMeta)
   return NextResponse.json({ jobs })
 }

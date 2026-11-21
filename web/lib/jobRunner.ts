@@ -27,10 +27,11 @@ export function isJobActiveInProcess(id: string): boolean {
  * If the meta file says `running` but this process has no live emitter for
  * it (e.g. the process restarted mid-job), it can never receive an 'exit' or
  * 'close' event for it — so report (and persist) it as `interrupted` instead
- * of leaving it `running` forever.
+ * of leaving it `running` forever. Scheduled runs are owned by another
+ * process, so those are judged by whether their pid is still alive.
  */
 export function reconcileJobMeta(meta: JobMeta): JobMeta {
-  if (meta.status !== 'running' || activeJobIds.has(meta.id)) {
+  if (meta.status !== 'running' || isJobAlive(meta)) {
     return meta
   }
   const reconciled: JobMeta = {
@@ -40,6 +41,25 @@ export function reconcileJobMeta(meta: JobMeta): JobMeta {
   }
   writeJobMeta(reconciled)
   return reconciled
+}
+
+// A scheduled run is a separate process (pm2/chronos -> scripts/run-job.js), so
+// this process cannot track it in activeJobIds. Check that its pid is alive
+// instead. Pids are recycled after a container restart, so also give up on any
+// run that claims to have been going for longer than any real grab could.
+const SCHEDULED_MAX_AGE_MS = 12 * 60 * 60 * 1000
+
+function isJobAlive(meta: JobMeta): boolean {
+  if (activeJobIds.has(meta.id)) return true
+  if (meta.source !== 'scheduled' || !meta.pid) return false
+  if (Date.now() - new Date(meta.startedAt).getTime() > SCHEDULED_MAX_AGE_MS) return false
+  try {
+    process.kill(meta.pid, 0)
+    return true
+  } catch (err) {
+    // EPERM means the process exists but belongs to someone else: still alive.
+    return (err as NodeJS.ErrnoException).code === 'EPERM'
+  }
 }
 
 export interface StartJobOptions {
@@ -65,7 +85,8 @@ export function startJob(options: StartJobOptions): StartJobResult {
     status: 'running',
     startedAt: new Date().toISOString(),
     finishedAt: null,
-    exitCode: null
+    exitCode: null,
+    source: 'manual'
   }
   writeJobMeta(meta)
   activeJobIds.add(id)

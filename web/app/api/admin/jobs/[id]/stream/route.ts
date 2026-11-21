@@ -1,7 +1,9 @@
 import { NextRequest } from 'next/server'
 import { getJobMeta, getJobLog } from '@/lib/jobStorage'
-import { subscribeToJob, reconcileJobMeta } from '@/lib/jobRunner'
+import { subscribeToJob, reconcileJobMeta, isJobActiveInProcess } from '@/lib/jobRunner'
 import { isAuthorized } from '@/lib/session'
+
+const POLL_INTERVAL_MS = 1000
 
 export async function GET(request: NextRequest, { params }: { params: Promise<{ id: string }> }) {
   if (!isAuthorized(request)) {
@@ -24,11 +26,44 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
 
   const stream = new ReadableStream({
     start(controller) {
-      controller.enqueue(encoder.encode(`data: ${JSON.stringify({ log: getJobLog(id) })}\n\n`))
+      let log = getJobLog(id)
+      controller.enqueue(encoder.encode(`data: ${JSON.stringify({ log })}\n\n`))
 
       if (job.status !== 'running') {
         controller.enqueue(encoder.encode(`data: ${JSON.stringify({ done: true, status: job.status })}\n\n`))
         controller.close()
+        return
+      }
+
+      // A run started by this process (manual) is followed through its event
+      // emitter. A scheduled run belongs to another process (pm2/chronos), so
+      // there is no emitter to subscribe to: follow its log file instead.
+      if (!isJobActiveInProcess(id)) {
+        const timer = setInterval(() => {
+          try {
+            const latest = getJobLog(id)
+            if (latest.length > log.length) {
+              const line = latest.slice(log.length)
+              log = latest
+              controller.enqueue(encoder.encode(`data: ${JSON.stringify({ line })}\n\n`))
+            }
+            const meta = getJobMeta(id)
+            const current = meta ? reconcileJobMeta(meta) : undefined
+            if (!current || current.status !== 'running') {
+              controller.enqueue(
+                encoder.encode(`data: ${JSON.stringify({ done: true, status: current?.status ?? 'interrupted' })}\n\n`)
+              )
+              clearInterval(timer)
+              controller.close()
+            }
+          } catch {
+            clearInterval(timer)
+          }
+        }, POLL_INTERVAL_MS)
+
+        request.signal.addEventListener('abort', () => {
+          clearInterval(timer)
+        })
         return
       }
 

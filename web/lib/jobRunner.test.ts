@@ -174,6 +174,52 @@ describe('jobRunner', () => {
       expect(getJobMeta('orphan-1')?.status).toBe('interrupted')
     })
 
+    describe('scheduled runs (owned by another process)', () => {
+      function scheduled(overrides: Partial<JobMeta> = {}): JobMeta {
+        return {
+          id: 'sched-1',
+          region: 'no',
+          status: 'running',
+          startedAt: new Date().toISOString(),
+          finishedAt: null,
+          exitCode: null,
+          source: 'scheduled',
+          pid: process.pid,
+          ...overrides
+        }
+      }
+
+      it('keeps a scheduled run running while its pid is alive', () => {
+        const meta = scheduled()
+        writeJobMeta(meta)
+        expect(reconcileJobMeta(meta).status).toBe('running')
+        expect(getJobMeta('sched-1')?.status).toBe('running')
+      })
+
+      it('marks a scheduled run interrupted when its pid is gone', () => {
+        // Spawn and reap a short-lived child so we hold a pid that is
+        // guaranteed to be dead.
+        const { pid } = require('child_process').spawnSync('node', ['-e', '0'])
+        const meta = scheduled({ id: 'sched-2', pid })
+        writeJobMeta(meta)
+        expect(reconcileJobMeta(meta).status).toBe('interrupted')
+        expect(getJobMeta('sched-2')?.status).toBe('interrupted')
+      })
+
+      it('marks a scheduled run interrupted when it claims to have run for over 12h, even if the pid exists', () => {
+        const old = new Date(Date.now() - 13 * 60 * 60 * 1000).toISOString()
+        const meta = scheduled({ id: 'sched-3', startedAt: old })
+        writeJobMeta(meta)
+        expect(reconcileJobMeta(meta).status).toBe('interrupted')
+      })
+
+      it('marks a scheduled run with no pid interrupted', () => {
+        const meta = scheduled({ id: 'sched-4', pid: undefined })
+        writeJobMeta(meta)
+        expect(reconcileJobMeta(meta).status).toBe('interrupted')
+      })
+    })
+
     it('leaves a job untouched while it is genuinely still running in this process', async () => {
       const startResult = startJob({
         region: 'th',

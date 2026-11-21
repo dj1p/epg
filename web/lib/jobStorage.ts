@@ -4,6 +4,9 @@ import { jobsDir } from '@/lib/paths'
 
 export type JobStatus = 'running' | 'success' | 'failed' | 'interrupted'
 
+/** Who started the run: the admin UI ('manual') or pm2/cron/startup ('scheduled'). */
+export type JobSource = 'manual' | 'scheduled'
+
 export interface JobMeta {
   id: string
   region: string
@@ -11,6 +14,10 @@ export interface JobMeta {
   startedAt: string
   finishedAt: string | null
   exitCode: number | null
+  /** Absent on records written before scheduled runs were tracked: treat as 'manual'. */
+  source?: JobSource
+  /** Set for scheduled runs, which live in a different process than the web app. */
+  pid?: number
 }
 
 function metaPath(id: string): string {

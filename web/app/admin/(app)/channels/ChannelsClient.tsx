@@ -97,29 +97,51 @@ export default function ChannelsClient() {
 
   return (
     <main>
-      <h1>Channels</h1>
-      {message && <p>{message}</p>}
+      <div className="page-header">
+        <div>
+          <h1>Channels</h1>
+          <p className="page-sub">{channels.length} channels in the current list</p>
+        </div>
+      </div>
 
-      <section>
+      {message && (
+        <div className={message.startsWith('Error') ? 'notice error-notice' : 'notice'}>{message}</div>
+      )}
+
+      <section className="card">
         <h2>Add from catalog</h2>
         <input
+          style={{ width: '100%' }}
           placeholder="Search by channel name or site (e.g. bbc)"
           value={query}
           onChange={e => setQuery(e.target.value)}
         />
-        <ul>
-          {results.map(entry => (
-            <li key={`${entry.site}|${entry.siteId}`}>
-              {entry.name} ({entry.site}, {entry.lang}){' '}
-              <button onClick={() => addChannel(entry)}>Add</button>
-            </li>
-          ))}
-        </ul>
+        {results.length > 0 && (
+          <div className="table-wrap" style={{ marginTop: '0.9rem' }}>
+            <table>
+              <tbody>
+                {results.map(entry => (
+                  <tr key={`${entry.site}|${entry.siteId}`}>
+                    <td>{entry.name}</td>
+                    <td className="muted">{entry.site}</td>
+                    <td className="muted">{entry.lang}</td>
+                    <td style={{ textAlign: 'right' }}>
+                      <button className="btn-sm" onClick={() => addChannel(entry)}>
+                        Add
+                      </button>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        )}
       </section>
 
-      <section>
+      <section className="card">
         <h2>Add manually</h2>
         <form
+          className="row"
           onSubmit={e => {
             e.preventDefault()
             addChannel(manual)
@@ -136,6 +158,7 @@ export default function ChannelsClient() {
             onChange={e => setManual({ ...manual, siteId: e.target.value })}
           />
           <input
+            style={{ width: '5rem' }}
             placeholder="lang"
             value={manual.lang}
             onChange={e => setManual({ ...manual, lang: e.target.value })}
@@ -150,34 +173,43 @@ export default function ChannelsClient() {
             value={manual.name}
             onChange={e => setManual({ ...manual, name: e.target.value })}
           />
-          <button type="submit">Add</button>
+          <button type="submit" className="btn-primary">
+            Add
+          </button>
         </form>
       </section>
 
-      <section>
-        <h2>Current channels ({channels.length})</h2>
-        <table>
-          <thead>
-            <tr>
-              <th>Name</th>
-              <th>Site</th>
-              <th>Lang</th>
-              <th></th>
-            </tr>
-          </thead>
-          <tbody>
-            {channels.map(ch => (
-              <tr key={`${ch.site}|${ch.siteId}`}>
-                <td>{ch.name}</td>
-                <td>{ch.site}</td>
-                <td>{ch.lang}</td>
-                <td>
-                  <button onClick={() => removeChannel(ch.site, ch.siteId)}>Remove</button>
-                </td>
+      <section className="card flush">
+        <div className="card-head">
+          <h2>Current channels ({channels.length})</h2>
+        </div>
+        <div className="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Site</th>
+                <th>Lang</th>
+                <th></th>
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {channels.map(ch => (
+                <tr key={`${ch.site}|${ch.siteId}`}>
+                  <td>{ch.name}</td>
+                  <td className="muted">{ch.site}</td>
+                  <td className="muted">{ch.lang}</td>
+                  <td style={{ textAlign: 'right' }}>
+                    <button className="btn-sm btn-danger" onClick={() => removeChannel(ch.site, ch.siteId)}>
+                      Remove
+                    </button>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+          {channels.length === 0 && <div className="empty">No channels yet.</div>}
+        </div>
       </section>
     </main>
   )

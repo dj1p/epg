@@ -33,11 +33,13 @@ export default function LoginPage() {
   }
 
   return (
-    <main>
-      <h1>EPG Admin Login</h1>
-      <form onSubmit={handleSubmit}>
+    <div className="login-wrap">
+      <form className="card login-card" onSubmit={handleSubmit}>
+        <h1 style={{ marginBottom: '0.25rem' }}>EPG Admin</h1>
+        <p className="page-sub" style={{ marginBottom: '1.25rem' }}>
+          Sign in to manage channels and fetches
+        </p>
         <label htmlFor="password">Password</label>
-        <br />
         <input
           id="password"
           type="password"
@@ -45,13 +47,15 @@ export default function LoginPage() {
           onChange={e => setPassword(e.target.value)}
           autoFocus
         />
-        <br />
-        <br />
-        <button type="submit" disabled={submitting}>
+        <button type="submit" className="btn-primary" disabled={submitting}>
           {submitting ? 'Signing in…' : 'Sign in'}
         </button>
+        {error && (
+          <p className="error" style={{ marginTop: '0.9rem' }}>
+            {error}
+          </p>
+        )}
       </form>
-      {error && <p className="error">{error}</p>}
-    </main>
+    </div>
   )
 }
