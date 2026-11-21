@@ -6,6 +6,7 @@ const path = require('path')
 const FORK    = path.resolve(__dirname, '..')
 const PUBLIC  = path.join(FORK, 'public')
 const CSRC    = path.join(FORK, 'channels-sources')
+const DATA    = process.env.EPG_DATA_DIR || path.join(FORK, 'data')
 
 // ── Classification (same rules as split-channels.js) ─────────────────────────
 
@@ -69,7 +70,12 @@ function writeRegion(region, channels) {
   }
   const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<channels>\n${lines.join('\n')}\n</channels>\n`
   fs.mkdirSync(path.join(PUBLIC, region), { recursive: true })
-  fs.writeFileSync(path.join(PUBLIC, `channels-${region}.xml`), xml)
+  // Write via a temp file + rename so a grab that starts while this runs
+  // never reads a half-written channel list.
+  const target = path.join(PUBLIC, `channels-${region}.xml`)
+  const tmp = `${target}.${process.pid}.tmp`
+  fs.writeFileSync(tmp, xml)
+  fs.renameSync(tmp, target)
   console.log(`channels-${region}.xml: ${lines.length} channels`)
 }
 
@@ -133,7 +139,58 @@ buckets.th.push(
   ...readChannels(path.join(CSRC, 'th-curated.channels.xml'), { defaultLang: 'th' })
 )
 
-// 3. Write
+// 3. Apply changes made in the admin panel (data/channel-overrides.json).
+// The curated files above are the baseline and live in git/the image; edits
+// made through /admin are stored separately on the persistent data volume so
+// they survive redeploys and don't fight with later updates to the curated
+// lists. Shape: { added: { <region>: [channel] }, removed: { <region>: [{site, siteId}] } }
+
+function xmlEscape(v) {
+  return String(v)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;').replace(/'/g, '&apos;')
+}
+function xmlUnescape(v) {
+  return String(v)
+    .replace(/&apos;/g, "'").replace(/&quot;/g, '"')
+    .replace(/&gt;/g, '>').replace(/&lt;/g, '<').replace(/&amp;/g, '&')
+}
+
+function readOverrides() {
+  const file = path.join(DATA, 'channel-overrides.json')
+  if (!fs.existsSync(file)) return { added: {}, removed: {} }
+  try {
+    const raw = JSON.parse(fs.readFileSync(file, 'utf8'))
+    return { added: raw.added || {}, removed: raw.removed || {} }
+  } catch (err) {
+    console.warn(`  ignoring unreadable channel-overrides.json: ${err.message}`)
+    return { added: {}, removed: {} }
+  }
+}
+
+const overrides = readOverrides()
+for (const region of Object.keys(buckets)) {
+  // The curated files keep names/ids XML-escaped as written; the admin sends
+  // plain text. Compare on the unescaped form so both sides line up.
+  const removed = new Set((overrides.removed[region] || []).map(k => `${k.site}|${k.siteId}`))
+  const kept = buckets[region].filter(
+    ch => !removed.has(`${xmlUnescape(ch.site)}|${xmlUnescape(ch.siteId)}`)
+  )
+  const extra = (overrides.added[region] || []).map(ch => ({
+    site: xmlEscape(ch.site),
+    siteId: xmlEscape(ch.siteId),
+    lang: xmlEscape(ch.lang || 'en'),
+    xmltvId: xmlEscape(ch.xmltvId || ''),
+    name: xmlEscape(ch.name)
+  }))
+  const dropped = buckets[region].length - kept.length
+  if (dropped || extra.length) {
+    console.log(`  ${region}: admin changes applied (-${dropped} removed, +${extra.length} added)`)
+  }
+  buckets[region] = kept.concat(extra)
+}
+
+// 4. Write
 for (const [region, channels] of Object.entries(buckets)) {
   writeRegion(region, channels)
 }
